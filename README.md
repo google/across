@@ -7,11 +7,7 @@ This repository contains code and related content for the ACROSS Taxonomy Resear
 Project OCEAN is an open science collaboration focused on understanding the open source ecosystems creating datasets that enable research and forming a clear understanding of the state of open source communities. OCEAN’s goal is to understand the health of the open source communities.
 
 ## ACROSS Taxonomy Overview/Goal
-<<<<<<< HEAD
-The ACROSS Taxonomy proposes models and templates to improve attribution of contributorship in open source ecosystems.
-=======
 The ACROSS Taxonomy proposes models and templates to improve and increase attribution of contributorship in open source ecosystems.
->>>>>>> e7c17b5 (update docs for initial repo)
 
 ## Research Publications
 *Upcoming*
