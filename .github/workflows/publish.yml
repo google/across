@@ -21,6 +21,11 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Submodules
+        run: |
+          git pull --recurse-submodules
+          git submodule update --remote --recursive
+
       - name: Build
         run: hugo --minify
 
