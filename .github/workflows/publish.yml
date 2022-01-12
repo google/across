@@ -12,20 +12,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
+          submodules: recursive 
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      - name: Submodules
-        run:  git submodule update --init --recursive
-        
       - name: hugo
         uses: klakegg/actions-hugo@1.0.0
         with:
           image: ext-alpine
-
-
-      - name: Build
-        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
