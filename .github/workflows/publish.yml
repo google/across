@@ -17,6 +17,8 @@ jobs:
 
       - name: hugo
         uses: klakegg/actions-hugo@1.0.0
+        with:
+          image: ext-alpine
 
       - name: Submodules
         run:  git submodule update --init --recursive
