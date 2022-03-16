@@ -1,4 +1,4 @@
-baseURL = "across/"
+baseURL = "/across"
 title = "ACROSS"
 
 enableRobotsTXT = true
