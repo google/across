@@ -30,4 +30,5 @@ _Small groups:_
 
 #### Presentations of Work #3
 
-Give each breakout group five minutes to present their results, and ten minutes to discuss with the workshop as a whole.
+This work will be presented in the next session.
+

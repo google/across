@@ -26,3 +26,7 @@ Using one of these as a guide, or working from your existing documentation, appl
 _Suggestions_: 
 
 * Re-use the previous working session's results as a starting off point
+
+## Presentations of Work #4
+
+Give each breakout group five minutes to present their results, and ten minutes to discuss with the workshop as a whole.

@@ -44,10 +44,10 @@ Use the **[self-guided workshop](single-player)**
 The ACROSS (**A**ttributing **C**ontributor **R**oles in **O**pen **S**ource **S**oftware) virtual workshops are designed to: 
 
 * Bring folks together from an open source community to identify what kinds of work and activities create, sustain, and foster their project
-* Help projects improve their identification and recognition of their contributor community
-* Improve the overall visibility of the work to maintain open source communities
+* Help projects improve how they identify and recognize of their contributor community
+* Improve the overall visibility of the work needed to maintain open source communities
 
-We will walk you through the process to identify the work that is being done, then help you create or improve your existing documentation that will make that work visible. 
+In these workshops we will walk you through the process to identify the work that is being done, then help you create or improve your existing documentation to make that work visible. 
 
 ---
 
