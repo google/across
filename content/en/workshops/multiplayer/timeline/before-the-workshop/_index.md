@@ -1,5 +1,5 @@
 ---
-title: "Before the workshop"
+title: "Before the Workshop"
 weight: 10
 description: Action items to prepare for the workshop
 ---
