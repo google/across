@@ -1,22 +1,10 @@
-# ACROSS Taxonomy
+# ACROSS
 " This is not an officially supported Google product"
 
-This repository contains code and related content for the ACROSS Taxonomy Research as part of Project OCEAN. 
+This repository contains code and related content for the ACROSS Workshop and Research as part of Project OCEAN. 
 
 ## [Project OCEAN Overview/Goal](https://vermontcomplexsystems.org/partner/OCEAN/)
 Project OCEAN is an open science collaboration focused on understanding the open source ecosystems creating datasets that enable research and forming a clear understanding of the state of open source communities. OCEAN’s goal is to understand the health of the open source communities.
-
-## ACROSS Taxonomy Overview/Goal
-The ACROSS Taxonomy proposes models and templates to improve and increase attribution of contributorship in open source ecosystems.
-
-## Research Publications
-*Upcoming*
-
-## Documentation
-*TODO*
-
-## ACROSS in the Wild
-If you use ACROSS in your work, please let us know and we will list it here!
 
 ## Source Code Headers
 
