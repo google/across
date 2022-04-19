@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ACROSS – Workshop Day</title>
-    <link>/across/workshops/multiplayer/timeline/day-of-workshop/</link>
+    <link>/workshops/multiplayer/timeline/day-of-workshop/</link>
     <description>Recent content in Workshop Day on ACROSS</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/across/workshops/multiplayer/timeline/day-of-workshop/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/workshops/multiplayer/timeline/day-of-workshop/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Workshops: Introductions and Background</title>
-      <link>/across/workshops/multiplayer/timeline/day-of-workshop/introduction/</link>
+      <link>/workshops/multiplayer/timeline/day-of-workshop/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/across/workshops/multiplayer/timeline/day-of-workshop/introduction/</guid>
+      <guid>/workshops/multiplayer/timeline/day-of-workshop/introduction/</guid>
       <description>
         
         
@@ -33,10 +33,10 @@
     
     <item>
       <title>Workshops: Working Session #1 - Define</title>
-      <link>/across/workshops/multiplayer/timeline/day-of-workshop/working-session-one/</link>
+      <link>/workshops/multiplayer/timeline/day-of-workshop/working-session-one/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/across/workshops/multiplayer/timeline/day-of-workshop/working-session-one/</guid>
+      <guid>/workshops/multiplayer/timeline/day-of-workshop/working-session-one/</guid>
       <description>
         
         
@@ -62,10 +62,10 @@
     
     <item>
       <title>Workshops: Working Session #2 - Ideate, Group, Classify</title>
-      <link>/across/workshops/multiplayer/timeline/day-of-workshop/working-session-two/</link>
+      <link>/workshops/multiplayer/timeline/day-of-workshop/working-session-two/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/across/workshops/multiplayer/timeline/day-of-workshop/working-session-two/</guid>
+      <guid>/workshops/multiplayer/timeline/day-of-workshop/working-session-two/</guid>
       <description>
         
         
@@ -89,10 +89,10 @@
     
     <item>
       <title>Workshops: Working Session #3 - Regroup, Define, Revise</title>
-      <link>/across/workshops/multiplayer/timeline/day-of-workshop/working-session-three/</link>
+      <link>/workshops/multiplayer/timeline/day-of-workshop/working-session-three/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/across/workshops/multiplayer/timeline/day-of-workshop/working-session-three/</guid>
+      <guid>/workshops/multiplayer/timeline/day-of-workshop/working-session-three/</guid>
       <description>
         
         
@@ -120,10 +120,10 @@
     
     <item>
       <title>Workshops: Working Session #4 - Apply</title>
-      <link>/across/workshops/multiplayer/timeline/day-of-workshop/working-session-four/</link>
+      <link>/workshops/multiplayer/timeline/day-of-workshop/working-session-four/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/across/workshops/multiplayer/timeline/day-of-workshop/working-session-four/</guid>
+      <guid>/workshops/multiplayer/timeline/day-of-workshop/working-session-four/</guid>
       <description>
         
         
@@ -136,7 +136,7 @@
 &lt;li&gt;&lt;strong&gt;Contribution Guide&lt;/strong&gt;: a general purpose how-to guide for new contributors to a project.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Recognition Document&lt;/strong&gt;: a list of previous contributors to a project.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The example templates can be found in the &lt;a href=&#34;/across/workshops/multiplayer/samples&#34;&gt;Fictional Project Templates&lt;/a&gt; section of this guide.&lt;/p&gt;
+&lt;p&gt;The example templates can be found in the &lt;a href=&#34;/workshops/multiplayer/samples&#34;&gt;Fictional Project Templates&lt;/a&gt; section of this guide.&lt;/p&gt;
 &lt;p&gt;Using one of these as a guide, or working from your existing documentation, apply the work completed in this workshop and build out one of these documents, specifically for your project.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Suggestions&lt;/em&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -150,10 +150,10 @@
     
     <item>
       <title>Workshops: Retrospective</title>
-      <link>/across/workshops/multiplayer/timeline/day-of-workshop/retrospective/</link>
+      <link>/workshops/multiplayer/timeline/day-of-workshop/retrospective/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/across/workshops/multiplayer/timeline/day-of-workshop/retrospective/</guid>
+      <guid>/workshops/multiplayer/timeline/day-of-workshop/retrospective/</guid>
       <description>
         
         
@@ -168,7 +168,7 @@
 &lt;ul&gt;
 &lt;li&gt;Send a Thank You email to all active participants
 &lt;ul&gt;
-&lt;li&gt;Suggested Copy: &lt;a href=&#34;/across/workshop/multiplayer/tempates/#thank-you-email&#34;&gt;Thank you email&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Suggested Copy: &lt;a href=&#34;/workshop/multiplayer/tempates/#thank-you-email&#34;&gt;Thank you email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Follow up separately with your leadership regarding implementing any designs, updates, or &lt;strong&gt;CATALOG OF CONTRIBUTIONS&lt;/strong&gt; created.&lt;/li&gt;

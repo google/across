@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ACROSS – New Releases</title>
-    <link>/across/blog/releases/</link>
+    <link>/blog/releases/</link>
     <description>Recent content in New Releases on ACROSS</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/across/blog/releases/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/blog/releases/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Blog: Another Great Release</title>
-      <link>/across/blog/2018/01/04/another-great-release/</link>
+      <link>/blog/2018/01/04/another-great-release/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/across/blog/2018/01/04/another-great-release/</guid>
+      <guid>/blog/2018/01/04/another-great-release/</guid>
       <description>
         
         

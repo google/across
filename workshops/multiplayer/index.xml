@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ACROSS – Multiplayer Workshop</title>
-    <link>/across/workshops/multiplayer/</link>
+    <link>/workshops/multiplayer/</link>
     <description>Recent content in Multiplayer Workshop on ACROSS</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/across/workshops/multiplayer/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/workshops/multiplayer/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Workshops: Workshop Timeline</title>
-      <link>/across/workshops/multiplayer/timeline/</link>
+      <link>/workshops/multiplayer/timeline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/across/workshops/multiplayer/timeline/</guid>
+      <guid>/workshops/multiplayer/timeline/</guid>
       <description>
         
         
@@ -29,10 +29,10 @@
     
     <item>
       <title>Workshops: Frequently Asked Questions</title>
-      <link>/across/workshops/multiplayer/faq/</link>
+      <link>/workshops/multiplayer/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/across/workshops/multiplayer/faq/</guid>
+      <guid>/workshops/multiplayer/faq/</guid>
       <description>
         
         
@@ -46,10 +46,10 @@
     
     <item>
       <title>Workshops: Communication Templates</title>
-      <link>/across/workshops/multiplayer/templates/</link>
+      <link>/workshops/multiplayer/templates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/across/workshops/multiplayer/templates/</guid>
+      <guid>/workshops/multiplayer/templates/</guid>
       <description>
         
         
@@ -163,10 +163,10 @@ Thank you for agreeing to be a notetaker for an ACROSS Workshop! Your recorded o
     
     <item>
       <title>Workshops: Fictional Project Samples</title>
-      <link>/across/workshops/multiplayer/samples/</link>
+      <link>/workshops/multiplayer/samples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/across/workshops/multiplayer/samples/</guid>
+      <guid>/workshops/multiplayer/samples/</guid>
       <description>
         
         
