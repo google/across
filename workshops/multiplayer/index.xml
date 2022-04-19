@@ -1,0 +1,288 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ACROSS – Multiplayer Workshop</title>
+    <link>/across/workshops/multiplayer/</link>
+    <description>Recent content in Multiplayer Workshop on ACROSS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="/across/workshops/multiplayer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Workshops: Workshop Timeline</title>
+      <link>/across/workshops/multiplayer/timeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/across/workshops/multiplayer/timeline/</guid>
+      <description>
+        
+        
+        &lt;p&gt;There are a number of steps that need to be completed ahead of time to make this workshop a success.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Workshops: Frequently Asked Questions</title>
+      <link>/across/workshops/multiplayer/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/across/workshops/multiplayer/faq/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Do you have a question?&lt;/strong&gt; &lt;a href=&#34;https://github.com/google/across/issues/new?title=FAQ:&#34;&gt;Raise an issue&lt;/a&gt; and we&amp;rsquo;ll answer it, and add it to this page!&lt;/p&gt;
+&lt;h2 id=&#34;why-is-the-facilitator-deck-full-of-squares&#34;&gt;Why is the Facilitator Deck full of squares?&lt;/h2&gt;
+&lt;p&gt;The mascot of OCEAN is Salty the Sea Otter, as featured on a few of the slides. &lt;a href=&#34;https://emojipedia.org/otter/&#34;&gt;🦦 U+1F9A6 OTTER&lt;/a&gt; was added to Unicode 12.0 in 2019.&lt;/p&gt;
+&lt;p&gt;If your operating system has not had major updates since that time, you may have issues viewing some title slides in the deck. If required, you can remove the emoji from the deck by editing the &amp;ldquo;Section&amp;rdquo; template and removing the placeholder.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Workshops: Communication Templates</title>
+      <link>/across/workshops/multiplayer/templates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/across/workshops/multiplayer/templates/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;workshop-invitation&#34;&gt;Workshop Invitation&lt;/h2&gt;
+&lt;table&gt;&lt;tr&gt;&lt;td&gt;
+Subject:  ACROSS Workshop - [DATE] - [PLACEHOLDER] Invitation
+&lt;/tr&gt;&lt;/td&gt;&lt;tr&gt;&lt;td&gt;
+You are invited to participate in the ACROSS Workshop we are holding at [PLACEHOLDER].
+&lt;p&gt;[INSERT: Why participant was selected, or other information as you require.]&lt;/p&gt;
+&lt;p&gt;The workshop will be held virtually over [PLATFORM].&lt;/p&gt;
+&lt;p&gt;We need confirmation from you that you are available to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;actively participate (not just call in and listen) in the virtual workshop&lt;/li&gt;
+&lt;li&gt;committed to attending the workshop about &lt;strong&gt;[TOPIC] on [DATE + TIME]&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In order to accept this invitation and receive details for connecting to the workshop,
+we need you to respond to this email no later than &lt;strong&gt;[DATE - 3 days before the workshop].&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thank you again, and we look forward to working with you,&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[YOUR NAMES]&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;h2 id=&#34;meeting-invite&#34;&gt;Meeting Invite&lt;/h2&gt;
+&lt;table&gt;&lt;tr&gt;&lt;td&gt;
+Subject:  ACROSS Workshop - [DATE] - [PLACEHOLDER] Meeting Details
+&lt;/tr&gt;&lt;/td&gt;&lt;tr&gt;&lt;td&gt;
+Hello!
+&lt;p&gt;Thank you for agreeing to participate in the ACROSS Workshop!&lt;/p&gt;
+&lt;p&gt;As a reminder, we are holding these workshops to better understand the kinds of work that all of you do to support and sustain open source ecosystems. When we asked for volunteers, you indicated that you could attend and actively participate.&lt;/p&gt;
+&lt;p&gt;Some important information for this week&amp;rsquo;s workshop:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;your workshop about [TOPIC] is scheduled for [DATE + TIME]&lt;/li&gt;
+&lt;li&gt;you can join the workshop through [PLATFORM]: [MEET LINK]&lt;/li&gt;
+&lt;li&gt;you can preview the Slides with the workshop agenda and format: [SLIDES LINK]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;TODO link to best practices for participating in workshops link.&lt;/p&gt;
+&lt;p&gt;Thank you again, and we look forward to working with you,&lt;/p&gt;
+&lt;p&gt;[YOUR NAMES]&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;h2 id=&#34;thank-you-email&#34;&gt;Thank you Email&lt;/h2&gt;
+&lt;table&gt;&lt;tr&gt;&lt;td&gt;
+Subject: ACROSS Workshop - Thank you for participating!
+&lt;/tr&gt;&lt;/td&gt;&lt;tr&gt;&lt;td&gt;
+Hello!
+&lt;p&gt;Thank you for the time you&amp;rsquo;ve spent working through the ACROSS Workshop.&lt;/p&gt;
+&lt;p&gt;We are grateful for your participants, and would like to share the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[Useful outcomes]&lt;/li&gt;
+&lt;li&gt;[Any FYI action items]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[YOUR NAMES]&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;h2 id=&#34;notetaker-guidance&#34;&gt;Notetaker Guidance&lt;/h2&gt;
+&lt;table&gt;&lt;tr&gt;&lt;td&gt;
+Subject: ACROSS Workshop - Notetaker Guidance
+&lt;/tr&gt;&lt;/td&gt;&lt;tr&gt;&lt;td&gt;
+Thank you for agreeing to be a notetaker for an ACROSS Workshop! Your recorded observations will be critical to ensuring the success of ACROSS. 
+&lt;p&gt;For the ease of participants, we will not be making recordings of any workshop, so it is your duty to ensure record keeping for the event.&lt;/p&gt;
+&lt;p&gt;Workshop plan:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Please review the [ACROSS Workshop Playbook] before your workshop to understand the structure of the session that the Facilitator will drive.&lt;/li&gt;
+&lt;li&gt;We have asked participants to speak slowly, avoid acronyms, and to listen to each other
+&lt;ul&gt;
+&lt;li&gt;If you are confused about any terms, be the person to say &amp;ldquo;Excuse me, I don&amp;rsquo;t understand what that term means&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;How to capture:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use a Google doc to ensure revisions are captured.&lt;/li&gt;
+&lt;li&gt;Ensure you capture
+&lt;ul&gt;
+&lt;li&gt;Group participants and date&lt;/li&gt;
+&lt;li&gt;Details on the four sections of discussion&lt;/li&gt;
+&lt;li&gt;Details on the retrospective&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What to capture:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discussions
+&lt;ul&gt;
+&lt;li&gt;These have been marked in the template per the agenda&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Retrospective discussion
+&lt;ul&gt;
+&lt;li&gt;This is paramount to ensure that future workshops can learn from the outcomes of earlier workshops, and can be adjusted if required.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What will be captured for you:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Attendees &amp;amp; Affiliation
+&lt;ul&gt;
+&lt;li&gt;This was captured when participants volunteered. This is a collaborative effort, so assigning quotes/ideas to people is not required&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Each breakout group will be capturing their own notes.
+&lt;ul&gt;
+&lt;li&gt;When the groups collect back, ensure a copy of these notes have been gathered (probably their own Google docs, with revision history)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What not to capture:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Any comment or note from a participant noted as &amp;ldquo;Off the record&amp;rdquo;, &amp;ldquo;In Confidence&amp;rdquo;, or otherwise flagged as being off the record.&lt;/li&gt;
+&lt;li&gt;Your interpretation of what was said. We appreciate that you may have opinions on what was discussed, and if you wish to capture those, please do so in a way that is distinguishable from participants/transcript-like notes. We want to ensure that the &lt;em&gt;source&lt;/em&gt; is captured, not the &lt;em&gt;interpretation&lt;/em&gt;, as this may lead to lossy information.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Workshops: Fictional Project Samples</title>
+      <link>/across/workshops/multiplayer/samples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/across/workshops/multiplayer/samples/</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;alert alert-info&#34; role=&#34;alert&#34;&gt;
+&lt;h4 class=&#34;alert-heading&#34;&gt;Note&lt;/h4&gt;
+
+    &lt;p&gt;Choose &lt;em&gt;one&lt;/em&gt; of these templates as a guide for your Working Session #4 outcome.&lt;/p&gt;
+&lt;p&gt;Note that the sample activities here are placeholders only: they may not be correct, complete, or relevant for your project!&lt;/p&gt;
+
+
+&lt;/div&gt;
+
+&lt;h2 id=&#34;fictional-project-rocksoft&#34;&gt;Fictional Project: Rocksoft&lt;/h2&gt;
+&lt;p&gt;Story: Salty Seaotter and Peppa Plankton developed &amp;ldquo;Rocksoft&amp;rdquo;, an application that helps carnivorous sea creatures access food from hard-shell invertebrates.&lt;/p&gt;
+&lt;p&gt;Their website is hosted at &lt;code&gt;rocksoft.eco&lt;/code&gt;, and includes information about their project, events, and community.&lt;/p&gt;
+&lt;h2 id=&#34;template-call-for-participation&#34;&gt;Template Call for Participation&lt;/h2&gt;
+&lt;h3 id=&#34;early-stage-event-organizing&#34;&gt;Early stage event organizing&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;rocksoft.eco/news/rockconf-2028-planning&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Help organize Rockconf 2028!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rockconf is back again, the annual gathering of Rocksoft enthusiasts and professionals, which will be hosted in Catherine Archipelago from 24-28 May 2028!&lt;/p&gt;
+&lt;p&gt;We are looking for organizers to help make this event happen! Please use [this application form] to register your interest.&lt;/p&gt;
+&lt;p&gt;Organizers will have full access to the event, and travel dispensation (up to 500 clams, 1000 for international travelers).&lt;/p&gt;
+&lt;p&gt;Current opportunities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Program reviewers
+&lt;ul&gt;
+&lt;li&gt;Rockconf receives more than 300 talk submissions annually, and we need help reviewing these submissions.
+&lt;ul&gt;
+&lt;li&gt;Timeline: Dec 2027 - Feb 2028&lt;/li&gt;
+&lt;li&gt;Work: reviewing submissions, discussing selections with Program Chair&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Volunteer coordinators:
+&lt;ul&gt;
+&lt;li&gt;As we get closer to the event, we are seeking assistance to help organize the volunteers!
+&lt;ul&gt;
+&lt;li&gt;Timeline: Feb 2028 - event day&lt;/li&gt;
+&lt;li&gt;Work: helping identify volunteers required, assessing application, on-site wrangling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;More here!&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;late-state-event-organizing&#34;&gt;Late state event organizing&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;rocksoft.eco/news/rockconf-2028-event-volunteers&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Help run Rockconf 2028!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are a few weeks away from Rockconf 2028, and we&amp;rsquo;re seeking volunteers to help us with on-site activities.&lt;/p&gt;
+&lt;p&gt;All these activities are on-site work. They require physical participation, but should not take more than 1 day of the four day event. With many volunteers, we can distribute the work so that even our volunteers can enjoy some of the presentations and events!&lt;/p&gt;
+&lt;p&gt;Accepted volunteers will be provided with access to the event (including meals and access to all talks and workshops) (or a refund if you&amp;rsquo;ve already paid), and travel dispensation (up to 200 clams, 400 for international travelers).&lt;/p&gt;
+&lt;p&gt;Current volunteer opportunities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Session chairs:
+&lt;ul&gt;
+&lt;li&gt;Work: Help introduce speakers, present timekeeping cards to help speakers not go over time, facilitate questions and answers.&lt;/li&gt;
+&lt;li&gt;Time required: 2 x 3 hour session blocks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Room monitors:
+&lt;ul&gt;
+&lt;li&gt;Work: Ensure speakers find their presentation rooms, notify green room should issues exist outside the ability of the session chair to assist.&lt;/li&gt;
+&lt;li&gt;Time required: 2 x 3 hour session blocks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Safety team
+&lt;ul&gt;
+&lt;li&gt;Work:&lt;/li&gt;
+&lt;li&gt;Time required:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;more here!&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;template-contribution-guide&#34;&gt;Template Contribution Guide&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;rocksoft.eco/contribute&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contributing to Rocksoft&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rocksoft is managed by Rockcorp, and welcomes contributors from anyone!&lt;/p&gt;
+&lt;p&gt;For first time contributors, we&amp;rsquo;ve created this guide to help you work out where your skills can be best applied.&lt;/p&gt;
+&lt;p&gt;New Engineering:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rocksoft uses Gitlab as source control and bug tracking. Bugs marked with &amp;ldquo;good-first-issue&amp;rdquo; are good candidates for newer contributors to assess.&lt;/li&gt;
+&lt;li&gt;Pull requests are processed through our testing system, and we use [bot name] to check for various machine-checkable fixes (linting, formatting, etc). Pull requests require two approvals, including at least one from our technical advisory group for new features.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tutorials and guides:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We would love to feature your use cases of Rocksoft! See our [tutorial guide] for how to get your tutorial listed in our documentation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Testing:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We are always after people to try out our alpha releases of new versions of Rocksoft. If you encounter issues, please ensure you mark your version with the output of &lt;code&gt;rocksoft --info&lt;/code&gt; to help our team identify if you&amp;rsquo;re on an alpha release.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;More here! Some of these prompts use the &amp;ldquo;We value&amp;rdquo; statements from Working Session #1!&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;template-recognition-document&#34;&gt;Template Recognition Document&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;rocksoft.eco/news/rocksoft-v3.4-release&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rocksoft v3.4 released&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rocksoft v3.4 has been released, including the improvements to the Shiny algorithm, and a preview of the new Holding-hands feature coming in v4.0. Read more in our [release notes].&lt;/p&gt;
+&lt;p&gt;Rocksoft would like to thank all those who contributed to the release:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Release manager: Salty Seaotter&lt;/li&gt;
+&lt;li&gt;Security review team: &amp;hellip;&lt;/li&gt;
+&lt;li&gt;Feature contributors:
+&lt;ul&gt;
+&lt;li&gt;Shiny: &amp;hellip;&lt;/li&gt;
+&lt;li&gt;Holding-hands: &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Code reviewers: &amp;hellip;&lt;/li&gt;
+&lt;li&gt;Beta testers: &amp;hellip;&lt;/li&gt;
+&lt;li&gt;Reporters of bugs resolved in this release: &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
