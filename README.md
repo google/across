@@ -1,10 +1,13 @@
 # ACROSS
-" This is not an officially supported Google product"
+
+This is not an officially supported Google product
 
 This repository contains code and related content for the ACROSS Workshop and Research as part of Project OCEAN. 
 
 ## [Project OCEAN Overview/Goal](https://vermontcomplexsystems.org/partner/OCEAN/)
 Project OCEAN is an open science collaboration focused on understanding the open source ecosystems creating datasets that enable research and forming a clear understanding of the state of open source communities. OCEAN’s goal is to understand the health of the open source communities.
+
+https://bit.ly/across-workshop-community-pitch
 
 ## Source Code Headers
 
