@@ -2,12 +2,16 @@
 
 This is not an officially supported Google product
 
-This repository contains code and related content for the ACROSS Workshop and Research as part of Project OCEAN. 
+This repository contains code and related content for the ACROSS Taxonomy Project, including Workshops and Research, as part of Project OCEAN. 
 
 ## [Project OCEAN Overview/Goal](https://vermontcomplexsystems.org/partner/OCEAN/)
 Project OCEAN is an open science collaboration focused on understanding the open source ecosystems creating datasets that enable research and forming a clear understanding of the state of open source communities. OCEAN’s goal is to understand the health of the open source communities.
 
-https://bit.ly/across-workshop-community-pitch
+
+## [ACROSS] (https://bit.ly/across-workshop-community-pitch)
+The ACROSS workshops allow open source communities to create and publish community-generated contribution documentation for open source ecosystems, clarifying who is present in open source and the impact they have.
+
+For future updates on new work and more ACROSS opportunities, please join our mailing list (across-opensource-workshops@)[https://groups.google.com/g/across-opensource-workshops].
 
 ## Source Code Headers
 
