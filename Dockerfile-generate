@@ -1,0 +1,9 @@
+FROM klakegg/hugo:ext-alpine
+
+RUN apk add git
+
+COPY . /src
+
+RUN git submodule update --init --recursive
+
+ENTRYPOINT hugo server --port 8080
