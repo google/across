@@ -4,6 +4,8 @@ steps:
     args:
       [
         "build",
+        "-f", 
+        "Dockerfile-generate",
         "-t",
         "gcr.io/${PROJECT_ID}/${_SERVICE_NAME}:${_PR_NUMBER}-${SHORT_SHA}",
         ".",
@@ -60,6 +62,8 @@ substitutions:
   _SERVICE_NAME: across
   _REGION: us-central1
   _GITHUB_REPO: $(pull_request.pull_request.head.repo.full_name)
+
+logsBucket: ${PROJECT_ID}-buildlogs
 
 options:
   dynamicSubstitutions: true
