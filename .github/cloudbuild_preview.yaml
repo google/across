@@ -63,6 +63,8 @@ substitutions:
   _REGION: us-central1
   _GITHUB_REPO: $(pull_request.pull_request.head.repo.full_name)
 
+logsBucket: ${PROJECT_ID}-buildlogs
+
 options:
   dynamicSubstitutions: true
 
