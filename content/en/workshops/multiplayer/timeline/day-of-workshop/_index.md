@@ -5,7 +5,7 @@ description: The workshop day (or days)
 ---
 
 
-The slides and speaker notes for the workshop itself are very open and explicit, and this "Day of the workshop" offers additional meta information. It is _highly recommended_ you review the [slides and speaker notes](#) well ahead of the workshop. Links to skip to each section of the workshop are available on Slide 3 of the Facilitator Deck.
+The slides and speaker notes for the workshop itself are very open and explicit, and this "Day of the workshop" offers additional meta information. It is _highly recommended_ you review the [slides and speaker notes](/workshops/multiplayer/resources/slides/) well ahead of the workshop. Links to skip to each section of the workshop are available on Slide 3 of the Facilitator Deck.
 
 ## Workshop timing
 
