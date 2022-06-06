@@ -22,10 +22,14 @@ ACROSS is a part of this work.
 
 ## Goals 
 
-ACROSS aims to: 
+The ACROSS (Attributing Contributor Roles in Open Source Software) virtual workshops are designed to: 
 
- * TODO
+* Bring folks together from an open source community to identify what kinds of work and activities create, sustain, and foster their project
+* Help projects improve how they identify and recognize their contributor community
+* Improve the overall visibility of the work needed to maintain open source communities
 
+In these workshops we will walk you through a process to identify the work that is being done, then help you create or improve your existing documentation to make that work visible.
+ 
 {{< /blocks/section >}}
 
 
