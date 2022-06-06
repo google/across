@@ -1,14 +1,14 @@
 
 ---
 title: "Single-player Workshop"
-linkTitle: "Single-player (WIP)"
+linkTitle: "Single-player (Coming Soon)"
 description: A workshop designed for the individual
 cascade: 
  - type: "docs"
 ---
 
 {{% alert title="Warning" color="warning" %}}
-This version of the workshop is a work in progress.
+This version of the workshop is coming soon. 
 {{% /alert %}}
 
 
