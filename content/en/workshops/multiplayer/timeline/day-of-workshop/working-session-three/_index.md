@@ -19,10 +19,9 @@ If we worked in isolation and came up with the same answers, that is a data poin
 
 Depending on the discussion, create new breakout(s) for 15 minutes.
 
-Sample clarifying questions:
+Sample clarifying question:
 
 * "I see Group A identified Task X. Group B: how does work fit into our model?"
-* **<TODO>**
 
 _Small groups:_
 
