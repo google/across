@@ -49,7 +49,7 @@ Some important information for this week's workshop:
 * you can join the workshop through [PLATFORM]: [MEET LINK]
 * you can preview the Slides with the workshop agenda and format: [SLIDES LINK]
 
-TODO link to best practices for participating in workshops link. 
+You can view the best practices to partipating in this workshop [at this link](https://whodoesthe.dev/workshops/multiplayer/resources/best-practices/participant/). 
 
 Thank you again, and we look forward to working with you,
 
