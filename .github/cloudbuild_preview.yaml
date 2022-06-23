@@ -71,8 +71,7 @@ steps:
 substitutions:
   _SERVICE_NAME: across
   _REGION: us-central1
-  _GITHUB_REPO: $(pull_request)
-  #_GITHUB_REPO: $(pull_request.pull_request.head.repo.full_name)
+  #_GITHUB_REPO: $(pull_request.head.repo.full_name)
 
 logsBucket: ${PROJECT_ID}-buildlogs
 
