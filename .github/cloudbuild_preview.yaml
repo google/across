@@ -7,7 +7,7 @@ steps:
       - 'pipefail'
       - '-c'
       - |
-        echo Repo: ${GITHUB_REPO}.
+        echo Repo: ${_GITHUB_REPO}.
 
   - id: "build image"
     name: "gcr.io/cloud-builders/docker"
