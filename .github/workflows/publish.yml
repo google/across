@@ -1,5 +1,7 @@
 name: github pages
 
+# https://github.com/peaceiris/actions-hugo#%EF%B8%8F-workflow-for-autoprefixer-and-postcss-cli
+
 on:
   push:
     branches:
@@ -7,17 +9,34 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
-          submodules: recursive 
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          submodules: recursive
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
-      - name: hugo
-        uses: klakegg/actions-hugo@1.0.0
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
         with:
-          image: ext-alpine
+          hugo-version: latest
+          extended: true
+          
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+
+      - name: Cache dependencies
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - run: npm ci
+      - run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
