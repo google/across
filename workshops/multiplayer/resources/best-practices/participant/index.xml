@@ -1,17 +1,1 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ACROSS – Best Practices for Participating in Inclusive Workshops</title>
-    <link>/workshops/multiplayer/resources/best-practices/participant/</link>
-    <description>Recent content in Best Practices for Participating in Inclusive Workshops on ACROSS</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	  <atom:link href="/workshops/multiplayer/resources/best-practices/participant/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ACROSS – Best Practices for Participating in Inclusive Workshops</title><link>/workshops/multiplayer/resources/best-practices/participant/</link><description>Recent content in Best Practices for Participating in Inclusive Workshops on ACROSS</description><generator>Hugo -- gohugo.io</generator><atom:link href="/workshops/multiplayer/resources/best-practices/participant/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

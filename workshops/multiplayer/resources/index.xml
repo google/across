@@ -1,309 +1,236 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ACROSS – Resources</title>
-    <link>/workshops/multiplayer/resources/</link>
-    <description>Recent content in Resources on ACROSS</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	  <atom:link href="/workshops/multiplayer/resources/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title>Workshops: Best Practices</title>
-      <link>/workshops/multiplayer/resources/best-practices/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/workshops/multiplayer/resources/best-practices/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Workshops: Slides and Worksheets</title>
-      <link>/workshops/multiplayer/resources/slides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/workshops/multiplayer/resources/slides/</guid>
-      <description>
-        
-        
-        &lt;p&gt;There are a number of resources that are hosted as Google Workspace files: the faciliator slides, and the worksheet.&lt;/p&gt;
-&lt;h2 id=&#34;facilitator-slides&#34;&gt;Facilitator Slides&lt;/h2&gt;
-&lt;p&gt;The ACROSS Workshop slides can be found at &lt;a href=&#34;https://bit.ly/across-workshop-slides&#34;&gt;bit.ly/across-workshop-slides&lt;/a&gt;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Make a copy&lt;/strong&gt; of these slides: &lt;a href=&#34;https://bit.ly/across-workshop-slides-copy&#34;&gt;bit.ly/across-workshop-slides-copy&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Update the slides:
-&lt;ul&gt;
-&lt;li&gt;Add your name, photo, pronounts to the &amp;ldquo;Friendly faces who make this workshop work&amp;rdquo; slide.&lt;/li&gt;
-&lt;li&gt;Update all &lt;code&gt;[PLACEHOLDER]&lt;/code&gt; references.&lt;/li&gt;
-&lt;li&gt;Adjust the &amp;ldquo;Agenda&amp;rdquo; slides based on your &lt;a href=&#34;/workshops/multiplayer/timeline/day-of-workshop/#workshop-timing&#34;&gt;workshop timing&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;worksheet&#34;&gt;Worksheet&lt;/h2&gt;
-&lt;p&gt;The ACROSS Workshop worksheet can be found at &lt;a href=&#34;https://bit.ly/across-workshop-worksheet&#34;&gt;bit.ly/across-workshop-worksheet&lt;/a&gt;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Make a copy&lt;/strong&gt; of the worksheet &lt;a href=&#34;https://bit.ly/across-workshop-worksheet-copy&#34;&gt;bit.ly/across-workshop-worksheet-copy&lt;/a&gt; for each of your breakout groups&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;best-practices-for-working-with-google-workspace-files&#34;&gt;Best Practices for working with Google Workspace files&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;If your partipants don&amp;rsquo;t have Google accounts:
-&lt;ul&gt;
-&lt;li&gt;After you copy the documents, go to &amp;ldquo;Share&amp;rdquo; and set them to &amp;ldquo;Anyone on the internet can edit&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Workshops: Communication Templates</title>
-      <link>/workshops/multiplayer/resources/templates/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/workshops/multiplayer/resources/templates/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;workshop-invitation&#34;&gt;Workshop Invitation&lt;/h2&gt;
-&lt;table&gt;&lt;tr&gt;&lt;td&gt;
-Subject:  ACROSS Workshop - [DATE] - [PLACEHOLDER] Invitation
-&lt;/tr&gt;&lt;/td&gt;&lt;tr&gt;&lt;td&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ACROSS – Resources</title><link>/workshops/multiplayer/resources/</link><description>Recent content in Resources on ACROSS</description><generator>Hugo -- gohugo.io</generator><atom:link href="/workshops/multiplayer/resources/index.xml" rel="self" type="application/rss+xml"/><item><title>Workshops: Best Practices</title><link>/workshops/multiplayer/resources/best-practices/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/workshops/multiplayer/resources/best-practices/</guid><description/></item><item><title>Workshops: Slides and Worksheets</title><link>/workshops/multiplayer/resources/slides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/workshops/multiplayer/resources/slides/</guid><description>
+&lt;p>There are a number of resources that are hosted as Google Workspace files: the faciliator slides, and the worksheet.&lt;/p>
+&lt;h2 id="facilitator-slides">Facilitator Slides&lt;/h2>
+&lt;p>The ACROSS Workshop slides can be found at &lt;a href="https://bit.ly/across-workshop-slides">bit.ly/across-workshop-slides&lt;/a>.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Make a copy&lt;/strong> of these slides: &lt;a href="https://bit.ly/across-workshop-slides-copy">bit.ly/across-workshop-slides-copy&lt;/a>.&lt;/li>
+&lt;li>Update the slides:
+&lt;ul>
+&lt;li>Add your name, photo, pronounts to the &amp;ldquo;Friendly faces who make this workshop work&amp;rdquo; slide.&lt;/li>
+&lt;li>Update all &lt;code>[PLACEHOLDER]&lt;/code> references.&lt;/li>
+&lt;li>Adjust the &amp;ldquo;Agenda&amp;rdquo; slides based on your &lt;a href="/workshops/multiplayer/timeline/day-of-workshop/#workshop-timing">workshop timing&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="worksheet">Worksheet&lt;/h2>
+&lt;p>The ACROSS Workshop worksheet can be found at &lt;a href="https://bit.ly/across-workshop-worksheet">bit.ly/across-workshop-worksheet&lt;/a>.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Make a copy&lt;/strong> of the worksheet &lt;a href="https://bit.ly/across-workshop-worksheet-copy">bit.ly/across-workshop-worksheet-copy&lt;/a> for each of your breakout groups&lt;/li>
+&lt;/ul>
+&lt;h2 id="best-practices-for-working-with-google-workspace-files">Best Practices for working with Google Workspace files&lt;/h2>
+&lt;ul>
+&lt;li>If your partipants don&amp;rsquo;t have Google accounts:
+&lt;ul>
+&lt;li>After you copy the documents, go to &amp;ldquo;Share&amp;rdquo; and set them to &amp;ldquo;Anyone on the internet can edit&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Workshops: Communication Templates</title><link>/workshops/multiplayer/resources/templates/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/workshops/multiplayer/resources/templates/</guid><description>
+&lt;h2 id="workshop-invitation">Workshop Invitation&lt;/h2>
+&lt;table>&lt;tr>&lt;td>
+Subject: ACROSS Workshop - [DATE] - [PLACEHOLDER] Invitation
+&lt;/tr>&lt;/td>&lt;tr>&lt;td>
 You are invited to participate in the ACROSS Workshop we are holding at [PLACEHOLDER].
-&lt;p&gt;[INSERT: Why participant was selected, or other information as you require.]&lt;/p&gt;
-&lt;p&gt;The workshop will be held virtually over [PLATFORM].&lt;/p&gt;
-&lt;p&gt;We need confirmation from you that you are available to:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;actively participate (not just call in and listen) in the virtual workshop&lt;/li&gt;
-&lt;li&gt;committed to attending the workshop about &lt;strong&gt;[TOPIC] on [DATE + TIME]&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In order to accept this invitation and receive details for connecting to the workshop,
-we need you to respond to this email no later than &lt;strong&gt;[DATE - 3 days before the workshop].&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Thank you again, and we look forward to working with you,&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[YOUR NAMES]&lt;/strong&gt;&lt;/p&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;h2 id=&#34;meeting-invite&#34;&gt;Meeting Invite&lt;/h2&gt;
-&lt;table&gt;&lt;tr&gt;&lt;td&gt;
-Subject:  ACROSS Workshop - [DATE] - [PLACEHOLDER] Meeting Details
-&lt;/tr&gt;&lt;/td&gt;&lt;tr&gt;&lt;td&gt;
+&lt;p>[INSERT: Why participant was selected, or other information as you require.]&lt;/p>
+&lt;p>The workshop will be held virtually over [PLATFORM].&lt;/p>
+&lt;p>We need confirmation from you that you are available to:&lt;/p>
+&lt;ul>
+&lt;li>actively participate (not just call in and listen) in the virtual workshop&lt;/li>
+&lt;li>committed to attending the workshop about &lt;strong>[TOPIC] on [DATE + TIME]&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>In order to accept this invitation and receive details for connecting to the workshop,
+we need you to respond to this email no later than &lt;strong>[DATE - 3 days before the workshop].&lt;/strong>&lt;/p>
+&lt;p>Thank you again, and we look forward to working with you,&lt;/p>
+&lt;p>&lt;strong>[YOUR NAMES]&lt;/strong>&lt;/p>
+&lt;/td>&lt;/tr>&lt;/table>
+&lt;h2 id="meeting-invite">Meeting Invite&lt;/h2>
+&lt;table>&lt;tr>&lt;td>
+Subject: ACROSS Workshop - [DATE] - [PLACEHOLDER] Meeting Details
+&lt;/tr>&lt;/td>&lt;tr>&lt;td>
 Hello!
-&lt;p&gt;Thank you for agreeing to participate in the ACROSS Workshop!&lt;/p&gt;
-&lt;p&gt;As a reminder, we are holding these workshops to better understand the kinds of work that all of you do to support and sustain open source ecosystems. When we asked for volunteers, you indicated that you could attend and actively participate.&lt;/p&gt;
-&lt;p&gt;Some important information for this week&amp;rsquo;s workshop:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;your workshop about [TOPIC] is scheduled for [DATE + TIME]&lt;/li&gt;
-&lt;li&gt;you can join the workshop through [PLATFORM]: [MEET LINK]&lt;/li&gt;
-&lt;li&gt;you can preview the Slides with the workshop agenda and format: [SLIDES LINK]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;You can view the best practices to partipating in this workshop &lt;a href=&#34;https://whodoesthe.dev/workshops/multiplayer/resources/best-practices/participant/&#34;&gt;at this link&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Thank you again, and we look forward to working with you,&lt;/p&gt;
-&lt;p&gt;[YOUR NAMES]&lt;/p&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;h2 id=&#34;thank-you-email&#34;&gt;Thank you Email&lt;/h2&gt;
-&lt;table&gt;&lt;tr&gt;&lt;td&gt;
+&lt;p>Thank you for agreeing to participate in the ACROSS Workshop!&lt;/p>
+&lt;p>As a reminder, we are holding these workshops to better understand the kinds of work that all of you do to support and sustain open source ecosystems. When we asked for volunteers, you indicated that you could attend and actively participate.&lt;/p>
+&lt;p>Some important information for this week&amp;rsquo;s workshop:&lt;/p>
+&lt;ul>
+&lt;li>your workshop about [TOPIC] is scheduled for [DATE + TIME]&lt;/li>
+&lt;li>you can join the workshop through [PLATFORM]: [MEET LINK]&lt;/li>
+&lt;li>you can preview the Slides with the workshop agenda and format: [SLIDES LINK]&lt;/li>
+&lt;/ul>
+&lt;p>You can view the best practices to partipating in this workshop &lt;a href="https://whodoesthe.dev/workshops/multiplayer/resources/best-practices/participant/">at this link&lt;/a>.&lt;/p>
+&lt;p>Thank you again, and we look forward to working with you,&lt;/p>
+&lt;p>[YOUR NAMES]&lt;/p>
+&lt;/td>&lt;/tr>&lt;/table>
+&lt;h2 id="thank-you-email">Thank you Email&lt;/h2>
+&lt;table>&lt;tr>&lt;td>
 Subject: ACROSS Workshop - Thank you for participating!
-&lt;/tr&gt;&lt;/td&gt;&lt;tr&gt;&lt;td&gt;
+&lt;/tr>&lt;/td>&lt;tr>&lt;td>
 Hello!
-&lt;p&gt;Thank you for the time you&amp;rsquo;ve spent working through the ACROSS Workshop.&lt;/p&gt;
-&lt;p&gt;We are grateful for your participants, and would like to share the following:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;[Useful outcomes]&lt;/li&gt;
-&lt;li&gt;[Any FYI action items]&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;[YOUR NAMES]&lt;/p&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;h2 id=&#34;notetaker-guidance&#34;&gt;Notetaker Guidance&lt;/h2&gt;
-&lt;table&gt;&lt;tr&gt;&lt;td&gt;
+&lt;p>Thank you for the time you&amp;rsquo;ve spent working through the ACROSS Workshop.&lt;/p>
+&lt;p>We are grateful for your participants, and would like to share the following:&lt;/p>
+&lt;ul>
+&lt;li>[Useful outcomes]&lt;/li>
+&lt;li>[Any FYI action items]&lt;/li>
+&lt;/ul>
+&lt;p>[YOUR NAMES]&lt;/p>
+&lt;/td>&lt;/tr>&lt;/table>
+&lt;h2 id="notetaker-guidance">Notetaker Guidance&lt;/h2>
+&lt;table>&lt;tr>&lt;td>
 Subject: ACROSS Workshop - Notetaker Guidance
-&lt;/tr&gt;&lt;/td&gt;&lt;tr&gt;&lt;td&gt;
-Thank you for agreeing to be a notetaker for an ACROSS Workshop! Your recorded observations will be critical to ensuring the success of ACROSS. 
-&lt;p&gt;For the ease of participants, we will not be making recordings of any workshop, so it is your duty to ensure record keeping for the event.&lt;/p&gt;
-&lt;p&gt;Workshop plan:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Please review the [ACROSS Workshop Playbook] before your workshop to understand the structure of the session that the Facilitator will drive.&lt;/li&gt;
-&lt;li&gt;We have asked participants to speak slowly, avoid acronyms, and to listen to each other
-&lt;ul&gt;
-&lt;li&gt;If you are confused about any terms, be the person to say &amp;ldquo;Excuse me, I don&amp;rsquo;t understand what that term means&amp;rdquo;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;How to capture:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Use a Google doc to ensure revisions are captured.&lt;/li&gt;
-&lt;li&gt;Ensure you capture
-&lt;ul&gt;
-&lt;li&gt;Group participants and date&lt;/li&gt;
-&lt;li&gt;Details on the four sections of discussion&lt;/li&gt;
-&lt;li&gt;Details on the retrospective&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;What to capture:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Discussions
-&lt;ul&gt;
-&lt;li&gt;These have been marked in the template per the agenda&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Retrospective discussion
-&lt;ul&gt;
-&lt;li&gt;This is paramount to ensure that future workshops can learn from the outcomes of earlier workshops, and can be adjusted if required.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;What will be captured for you:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Attendees &amp;amp; Affiliation
-&lt;ul&gt;
-&lt;li&gt;This was captured when participants volunteered. This is a collaborative effort, so assigning quotes/ideas to people is not required&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Each breakout group will be capturing their own notes.
-&lt;ul&gt;
-&lt;li&gt;When the groups collect back, ensure a copy of these notes have been gathered (probably their own Google docs, with revision history)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;What not to capture:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Any comment or note from a participant noted as &amp;ldquo;Off the record&amp;rdquo;, &amp;ldquo;In Confidence&amp;rdquo;, or otherwise flagged as being off the record.&lt;/li&gt;
-&lt;li&gt;Your interpretation of what was said. We appreciate that you may have opinions on what was discussed, and if you wish to capture those, please do so in a way that is distinguishable from participants/transcript-like notes. We want to ensure that the &lt;em&gt;source&lt;/em&gt; is captured, not the &lt;em&gt;interpretation&lt;/em&gt;, as this may lead to lossy information.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-      </description>
-    </item>
-    
-    <item>
-      <title>Workshops: Fictional Project Samples</title>
-      <link>/workshops/multiplayer/resources/samples/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/workshops/multiplayer/resources/samples/</guid>
-      <description>
-        
-        
-        
-
-&lt;div class=&#34;alert alert-info&#34; role=&#34;alert&#34;&gt;
-&lt;h4 class=&#34;alert-heading&#34;&gt;Note&lt;/h4&gt;
-
-    &lt;p&gt;Choose &lt;em&gt;one&lt;/em&gt; of these templates as a guide for your Working Session #4 outcome.&lt;/p&gt;
-&lt;p&gt;Note that the sample activities here are placeholders only: they may not be correct, complete, or relevant for your project!&lt;/p&gt;
-
-
-&lt;/div&gt;
-
-&lt;h2 id=&#34;fictional-project-rocksoft&#34;&gt;Fictional Project: Rocksoft&lt;/h2&gt;
-&lt;p&gt;Story: Salty Seaotter and Peppa Plankton developed &amp;ldquo;Rocksoft&amp;rdquo;, an application that helps carnivorous sea creatures access food from hard-shell invertebrates.&lt;/p&gt;
-&lt;p&gt;Their website is hosted at &lt;code&gt;rocksoft.eco&lt;/code&gt;, and includes information about their project, events, and community.&lt;/p&gt;
-&lt;h2 id=&#34;template-call-for-participation&#34;&gt;Template Call for Participation&lt;/h2&gt;
-&lt;h3 id=&#34;early-stage-event-organizing&#34;&gt;Early stage event organizing&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;rocksoft.eco/news/rockconf-2028-planning&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Help organize Rockconf 2028!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Rockconf is back again, the annual gathering of Rocksoft enthusiasts and professionals, which will be hosted in Catherine Archipelago from 24-28 May 2028!&lt;/p&gt;
-&lt;p&gt;We are looking for organizers to help make this event happen! Please use [this application form] to register your interest.&lt;/p&gt;
-&lt;p&gt;Organizers will have full access to the event, and travel dispensation (up to 500 clams, 1000 for international travelers).&lt;/p&gt;
-&lt;p&gt;Current opportunities:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Program reviewers
-&lt;ul&gt;
-&lt;li&gt;Rockconf receives more than 300 talk submissions annually, and we need help reviewing these submissions.
-&lt;ul&gt;
-&lt;li&gt;Timeline: Dec 2027 - Feb 2028&lt;/li&gt;
-&lt;li&gt;Work: reviewing submissions, discussing selections with Program Chair&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Volunteer coordinators:
-&lt;ul&gt;
-&lt;li&gt;As we get closer to the event, we are seeking assistance to help organize the volunteers!
-&lt;ul&gt;
-&lt;li&gt;Timeline: Feb 2028 - event day&lt;/li&gt;
-&lt;li&gt;Work: helping identify volunteers required, assessing application, on-site wrangling.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;More here!&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;late-state-event-organizing&#34;&gt;Late state event organizing&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;rocksoft.eco/news/rockconf-2028-event-volunteers&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Help run Rockconf 2028!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We are a few weeks away from Rockconf 2028, and we&amp;rsquo;re seeking volunteers to help us with on-site activities.&lt;/p&gt;
-&lt;p&gt;All these activities are on-site work. They require physical participation, but should not take more than 1 day of the four day event. With many volunteers, we can distribute the work so that even our volunteers can enjoy some of the presentations and events!&lt;/p&gt;
-&lt;p&gt;Accepted volunteers will be provided with access to the event (including meals and access to all talks and workshops) (or a refund if you&amp;rsquo;ve already paid), and travel dispensation (up to 200 clams, 400 for international travelers).&lt;/p&gt;
-&lt;p&gt;Current volunteer opportunities:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Session chairs:
-&lt;ul&gt;
-&lt;li&gt;Work: Help introduce speakers, present timekeeping cards to help speakers not go over time, facilitate questions and answers.&lt;/li&gt;
-&lt;li&gt;Time required: 2 x 3 hour session blocks&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Room monitors:
-&lt;ul&gt;
-&lt;li&gt;Work: Ensure speakers find their presentation rooms, notify green room should issues exist outside the ability of the session chair to assist.&lt;/li&gt;
-&lt;li&gt;Time required: 2 x 3 hour session blocks&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Safety team
-&lt;ul&gt;
-&lt;li&gt;Work:&lt;/li&gt;
-&lt;li&gt;Time required:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;more here!&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;template-contribution-guide&#34;&gt;Template Contribution Guide&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;rocksoft.eco/contribute&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Contributing to Rocksoft&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Rocksoft is managed by Rockcorp, and welcomes contributors from anyone!&lt;/p&gt;
-&lt;p&gt;For first time contributors, we&amp;rsquo;ve created this guide to help you work out where your skills can be best applied.&lt;/p&gt;
-&lt;p&gt;New Engineering:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Rocksoft uses Gitlab as source control and bug tracking. Bugs marked with &amp;ldquo;good-first-issue&amp;rdquo; are good candidates for newer contributors to assess.&lt;/li&gt;
-&lt;li&gt;Pull requests are processed through our testing system, and we use [bot name] to check for various machine-checkable fixes (linting, formatting, etc). Pull requests require two approvals, including at least one from our technical advisory group for new features.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Tutorials and guides:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;We would love to feature your use cases of Rocksoft! See our [tutorial guide] for how to get your tutorial listed in our documentation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Testing:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;We are always after people to try out our alpha releases of new versions of Rocksoft. If you encounter issues, please ensure you mark your version with the output of &lt;code&gt;rocksoft --info&lt;/code&gt; to help our team identify if you&amp;rsquo;re on an alpha release.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;More here! Some of these prompts use the &amp;ldquo;We value&amp;rdquo; statements from Working Session #1!&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;template-recognition-document&#34;&gt;Template Recognition Document&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;rocksoft.eco/news/rocksoft-v3.4-release&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Rocksoft v3.4 released&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Rocksoft v3.4 has been released, including the improvements to the Shiny algorithm, and a preview of the new Holding-hands feature coming in v4.0. Read more in our [release notes].&lt;/p&gt;
-&lt;p&gt;Rocksoft would like to thank all those who contributed to the release:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Release manager: Salty Seaotter&lt;/li&gt;
-&lt;li&gt;Security review team: &amp;hellip;&lt;/li&gt;
-&lt;li&gt;Feature contributors:
-&lt;ul&gt;
-&lt;li&gt;Shiny: &amp;hellip;&lt;/li&gt;
-&lt;li&gt;Holding-hands: &amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Code reviewers: &amp;hellip;&lt;/li&gt;
-&lt;li&gt;Beta testers: &amp;hellip;&lt;/li&gt;
-&lt;li&gt;Reporters of bugs resolved in this release: &amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/tr>&lt;/td>&lt;tr>&lt;td>
+Thank you for agreeing to be a notetaker for an ACROSS Workshop! Your recorded observations will be critical to ensuring the success of ACROSS.
+&lt;p>For the ease of participants, we will not be making recordings of any workshop, so it is your duty to ensure record keeping for the event.&lt;/p>
+&lt;p>Workshop plan:&lt;/p>
+&lt;ul>
+&lt;li>Please review the [ACROSS Workshop Playbook] before your workshop to understand the structure of the session that the Facilitator will drive.&lt;/li>
+&lt;li>We have asked participants to speak slowly, avoid acronyms, and to listen to each other
+&lt;ul>
+&lt;li>If you are confused about any terms, be the person to say &amp;ldquo;Excuse me, I don&amp;rsquo;t understand what that term means&amp;rdquo;.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>How to capture:&lt;/p>
+&lt;ul>
+&lt;li>Use a Google doc to ensure revisions are captured.&lt;/li>
+&lt;li>Ensure you capture
+&lt;ul>
+&lt;li>Group participants and date&lt;/li>
+&lt;li>Details on the four sections of discussion&lt;/li>
+&lt;li>Details on the retrospective&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>What to capture:&lt;/p>
+&lt;ul>
+&lt;li>Discussions
+&lt;ul>
+&lt;li>These have been marked in the template per the agenda&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Retrospective discussion
+&lt;ul>
+&lt;li>This is paramount to ensure that future workshops can learn from the outcomes of earlier workshops, and can be adjusted if required.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>What will be captured for you:&lt;/p>
+&lt;ul>
+&lt;li>Attendees &amp;amp; Affiliation
+&lt;ul>
+&lt;li>This was captured when participants volunteered. This is a collaborative effort, so assigning quotes/ideas to people is not required&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Each breakout group will be capturing their own notes.
+&lt;ul>
+&lt;li>When the groups collect back, ensure a copy of these notes have been gathered (probably their own Google docs, with revision history)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>What not to capture:&lt;/p>
+&lt;ul>
+&lt;li>Any comment or note from a participant noted as &amp;ldquo;Off the record&amp;rdquo;, &amp;ldquo;In Confidence&amp;rdquo;, or otherwise flagged as being off the record.&lt;/li>
+&lt;li>Your interpretation of what was said. We appreciate that you may have opinions on what was discussed, and if you wish to capture those, please do so in a way that is distinguishable from participants/transcript-like notes. We want to ensure that the &lt;em>source&lt;/em> is captured, not the &lt;em>interpretation&lt;/em>, as this may lead to lossy information.&lt;/li>
+&lt;/ul>
+&lt;/td>&lt;/tr>&lt;/table></description></item><item><title>Workshops: Fictional Project Samples</title><link>/workshops/multiplayer/resources/samples/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/workshops/multiplayer/resources/samples/</guid><description>
+&lt;div class="alert alert-info" role="alert">
+&lt;h4 class="alert-heading">Note&lt;/h4>
+&lt;p>Choose &lt;em>one&lt;/em> of these templates as a guide for your Working Session #4 outcome.&lt;/p>
+&lt;p>Note that the sample activities here are placeholders only: they may not be correct, complete, or relevant for your project!&lt;/p>
+&lt;/div>
+&lt;h2 id="fictional-project-rocksoft">Fictional Project: Rocksoft&lt;/h2>
+&lt;p>Story: Salty Seaotter and Peppa Plankton developed &amp;ldquo;Rocksoft&amp;rdquo;, an application that helps carnivorous sea creatures access food from hard-shell invertebrates.&lt;/p>
+&lt;p>Their website is hosted at &lt;code>rocksoft.eco&lt;/code>, and includes information about their project, events, and community.&lt;/p>
+&lt;h2 id="template-call-for-participation">Template Call for Participation&lt;/h2>
+&lt;h3 id="early-stage-event-organizing">Early stage event organizing&lt;/h3>
+&lt;p>&lt;code>rocksoft.eco/news/rockconf-2028-planning&lt;/code>&lt;/p>
+&lt;p>&lt;strong>Help organize Rockconf 2028!&lt;/strong>&lt;/p>
+&lt;p>Rockconf is back again, the annual gathering of Rocksoft enthusiasts and professionals, which will be hosted in Catherine Archipelago from 24-28 May 2028!&lt;/p>
+&lt;p>We are looking for organizers to help make this event happen! Please use [this application form] to register your interest.&lt;/p>
+&lt;p>Organizers will have full access to the event, and travel dispensation (up to 500 clams, 1000 for international travelers).&lt;/p>
+&lt;p>Current opportunities:&lt;/p>
+&lt;ul>
+&lt;li>Program reviewers
+&lt;ul>
+&lt;li>Rockconf receives more than 300 talk submissions annually, and we need help reviewing these submissions.
+&lt;ul>
+&lt;li>Timeline: Dec 2027 - Feb 2028&lt;/li>
+&lt;li>Work: reviewing submissions, discussing selections with Program Chair&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Volunteer coordinators:
+&lt;ul>
+&lt;li>As we get closer to the event, we are seeking assistance to help organize the volunteers!
+&lt;ul>
+&lt;li>Timeline: Feb 2028 - event day&lt;/li>
+&lt;li>Work: helping identify volunteers required, assessing application, on-site wrangling.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;em>More here!&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h3 id="late-state-event-organizing">Late state event organizing&lt;/h3>
+&lt;p>&lt;code>rocksoft.eco/news/rockconf-2028-event-volunteers&lt;/code>&lt;/p>
+&lt;p>&lt;strong>Help run Rockconf 2028!&lt;/strong>&lt;/p>
+&lt;p>We are a few weeks away from Rockconf 2028, and we&amp;rsquo;re seeking volunteers to help us with on-site activities.&lt;/p>
+&lt;p>All these activities are on-site work. They require physical participation, but should not take more than 1 day of the four day event. With many volunteers, we can distribute the work so that even our volunteers can enjoy some of the presentations and events!&lt;/p>
+&lt;p>Accepted volunteers will be provided with access to the event (including meals and access to all talks and workshops) (or a refund if you&amp;rsquo;ve already paid), and travel dispensation (up to 200 clams, 400 for international travelers).&lt;/p>
+&lt;p>Current volunteer opportunities:&lt;/p>
+&lt;ul>
+&lt;li>Session chairs:
+&lt;ul>
+&lt;li>Work: Help introduce speakers, present timekeeping cards to help speakers not go over time, facilitate questions and answers.&lt;/li>
+&lt;li>Time required: 2 x 3 hour session blocks&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Room monitors:
+&lt;ul>
+&lt;li>Work: Ensure speakers find their presentation rooms, notify green room should issues exist outside the ability of the session chair to assist.&lt;/li>
+&lt;li>Time required: 2 x 3 hour session blocks&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Safety team
+&lt;ul>
+&lt;li>Work:&lt;/li>
+&lt;li>Time required:&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;em>more here!&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="template-contribution-guide">Template Contribution Guide&lt;/h2>
+&lt;p>&lt;code>rocksoft.eco/contribute&lt;/code>&lt;/p>
+&lt;p>&lt;strong>Contributing to Rocksoft&lt;/strong>&lt;/p>
+&lt;p>Rocksoft is managed by Rockcorp, and welcomes contributors from anyone!&lt;/p>
+&lt;p>For first time contributors, we&amp;rsquo;ve created this guide to help you work out where your skills can be best applied.&lt;/p>
+&lt;p>New Engineering:&lt;/p>
+&lt;ul>
+&lt;li>Rocksoft uses Gitlab as source control and bug tracking. Bugs marked with &amp;ldquo;good-first-issue&amp;rdquo; are good candidates for newer contributors to assess.&lt;/li>
+&lt;li>Pull requests are processed through our testing system, and we use [bot name] to check for various machine-checkable fixes (linting, formatting, etc). Pull requests require two approvals, including at least one from our technical advisory group for new features.&lt;/li>
+&lt;/ul>
+&lt;p>Tutorials and guides:&lt;/p>
+&lt;ul>
+&lt;li>We would love to feature your use cases of Rocksoft! See our [tutorial guide] for how to get your tutorial listed in our documentation.&lt;/li>
+&lt;/ul>
+&lt;p>Testing:&lt;/p>
+&lt;ul>
+&lt;li>We are always after people to try out our alpha releases of new versions of Rocksoft. If you encounter issues, please ensure you mark your version with the output of &lt;code>rocksoft --info&lt;/code> to help our team identify if you&amp;rsquo;re on an alpha release.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>More here! Some of these prompts use the &amp;ldquo;We value&amp;rdquo; statements from Working Session #1!&lt;/em>&lt;/p>
+&lt;h2 id="template-recognition-document">Template Recognition Document&lt;/h2>
+&lt;p>&lt;code>rocksoft.eco/news/rocksoft-v3.4-release&lt;/code>&lt;/p>
+&lt;p>&lt;strong>Rocksoft v3.4 released&lt;/strong>&lt;/p>
+&lt;p>Rocksoft v3.4 has been released, including the improvements to the Shiny algorithm, and a preview of the new Holding-hands feature coming in v4.0. Read more in our [release notes].&lt;/p>
+&lt;p>Rocksoft would like to thank all those who contributed to the release:&lt;/p>
+&lt;ul>
+&lt;li>Release manager: Salty Seaotter&lt;/li>
+&lt;li>Security review team: &amp;hellip;&lt;/li>
+&lt;li>Feature contributors:
+&lt;ul>
+&lt;li>Shiny: &amp;hellip;&lt;/li>
+&lt;li>Holding-hands: &amp;hellip;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Code reviewers: &amp;hellip;&lt;/li>
+&lt;li>Beta testers: &amp;hellip;&lt;/li>
+&lt;li>Reporters of bugs resolved in this release: &amp;hellip;&lt;/li>
+&lt;/ul></description></item></channel></rss>

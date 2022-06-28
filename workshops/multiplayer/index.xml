@@ -1,61 +1,6 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ACROSS – Multiplayer Workshop</title>
-    <link>/workshops/multiplayer/</link>
-    <description>Recent content in Multiplayer Workshop on ACROSS</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	  <atom:link href="/workshops/multiplayer/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title>Workshops: Workshop Timeline</title>
-      <link>/workshops/multiplayer/timeline/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/workshops/multiplayer/timeline/</guid>
-      <description>
-        
-        
-        &lt;p&gt;There are a number of steps that need to be completed ahead of time to make this workshop a success.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Workshops: Resources</title>
-      <link>/workshops/multiplayer/resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/workshops/multiplayer/resources/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Workshops: Frequently Asked Questions</title>
-      <link>/workshops/multiplayer/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/workshops/multiplayer/faq/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;Do you have a question?&lt;/strong&gt; &lt;a href=&#34;https://github.com/google/across/issues/new?title=FAQ:&#34;&gt;Raise an issue&lt;/a&gt; and we&amp;rsquo;ll answer it, and add it to this page!&lt;/p&gt;
-&lt;h2 id=&#34;why-is-the-facilitator-deck-full-of-squares&#34;&gt;Why is the Facilitator Deck full of squares?&lt;/h2&gt;
-&lt;p&gt;The mascot of OCEAN is Salty the Sea Otter, as featured on a few of the slides. &lt;a href=&#34;https://emojipedia.org/otter/&#34;&gt;🦦 U+1F9A6 OTTER&lt;/a&gt; was added to Unicode 12.0 in 2019.&lt;/p&gt;
-&lt;p&gt;If your operating system has not had major updates since that time, you may have issues viewing some title slides in the deck. If required, you can remove the emoji from the deck by editing the &amp;ldquo;Section&amp;rdquo; template and removing the placeholder.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ACROSS – Multiplayer Workshop</title><link>/workshops/multiplayer/</link><description>Recent content in Multiplayer Workshop on ACROSS</description><generator>Hugo -- gohugo.io</generator><atom:link href="/workshops/multiplayer/index.xml" rel="self" type="application/rss+xml"/><item><title>Workshops: Workshop Timeline</title><link>/workshops/multiplayer/timeline/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/workshops/multiplayer/timeline/</guid><description>
+&lt;p>There are a number of steps that need to be completed ahead of time to make this workshop a success.&lt;/p></description></item><item><title>Workshops: Resources</title><link>/workshops/multiplayer/resources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/workshops/multiplayer/resources/</guid><description/></item><item><title>Workshops: Frequently Asked Questions</title><link>/workshops/multiplayer/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/workshops/multiplayer/faq/</guid><description>
+&lt;p>&lt;strong>Do you have a question?&lt;/strong> &lt;a href="https://github.com/google/across/issues/new?title=FAQ:">Raise an issue&lt;/a> and we&amp;rsquo;ll answer it, and add it to this page!&lt;/p>
+&lt;h2 id="why-is-the-facilitator-deck-full-of-squares">Why is the Facilitator Deck full of squares?&lt;/h2>
+&lt;p>The mascot of OCEAN is Salty the Sea Otter, as featured on a few of the slides. &lt;a href="https://emojipedia.org/otter/">🦦 U+1F9A6 OTTER&lt;/a> was added to Unicode 12.0 in 2019.&lt;/p>
+&lt;p>If your operating system has not had major updates since that time, you may have issues viewing some title slides in the deck. If required, you can remove the emoji from the deck by editing the &amp;ldquo;Section&amp;rdquo; template and removing the placeholder.&lt;/p></description></item></channel></rss>

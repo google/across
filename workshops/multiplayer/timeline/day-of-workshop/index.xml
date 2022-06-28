@@ -1,180 +1,86 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ACROSS – Workshop Day</title>
-    <link>/workshops/multiplayer/timeline/day-of-workshop/</link>
-    <description>Recent content in Workshop Day on ACROSS</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	  <atom:link href="/workshops/multiplayer/timeline/day-of-workshop/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title>Workshops: Introductions and Background</title>
-      <link>/workshops/multiplayer/timeline/day-of-workshop/introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/workshops/multiplayer/timeline/day-of-workshop/introduction/</guid>
-      <description>
-        
-        
-        &lt;p&gt;This section is ground rules and scoping. It contains a short set of slides around the scoping of why this identification process is important, and introduces the facilitators to the participants, and participants to each other.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Suggestions&lt;/em&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;during &amp;ldquo;Participatory Refinement and Questions&amp;rdquo;, ask &amp;ldquo;What questions do you have?&amp;rdquo;, rather than &amp;ldquo;Do you have any questions?&amp;rdquo;.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Workshops: Working Session #1 - Define</title>
-      <link>/workshops/multiplayer/timeline/day-of-workshop/working-session-one/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/workshops/multiplayer/timeline/day-of-workshop/working-session-one/</guid>
-      <description>
-        
-        
-        &lt;!-- Yay, no errors, warnings, or alerts! --&gt;
-&lt;p&gt;This section is literally to define what the scope of this identification workshop is.&lt;/p&gt;
-&lt;p&gt;Yes, that in itself might be vague, but it is intentionally so. Participants may have been invited to discuss a shared project, but identifying the bounds of what is counted as the project is a useful exercise.&lt;/p&gt;
-&lt;p&gt;The outcome of this session may be something in the form: &lt;em&gt;We are [PROJECT], we are here to do [X]&amp;hellip; In order to do [X], we will be defining [Y]&amp;quot;&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;When running this workshop virtually, take advantage of your platform&amp;rsquo;s virtual breakout rooms. &lt;strong&gt;Do not observe these breakouts&lt;/strong&gt; (unless asked to do so by attendees), but tell attendees to click any &amp;lsquo;Get Help&amp;rsquo; or &amp;lsquo;Raise Hand&amp;rsquo; button if they need a hand. Set a timer for the session, so that participants know when to return.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Suggestions:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;If you have scoped this workshop for a very specific project, do not skip this section. Make participants create a definition of your project&amp;rsquo;s scope.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Groups of 2-3 participants:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;You can still suggest one breakout room so that the group can work unobserved, or if your platform is limited, advise that the facilitator and notetaker will mute/camera off for the duration of breakouts. Try not to make suggestions at participants, but listen out if they have issues.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Each session builds on the last, and outcomes from each working session are used in the next. Interpretations in this section follow through the workshop, so ensure consensus before continuing.&lt;/p&gt;
-&lt;h4 id=&#34;presentations-of-work-1&#34;&gt;Presentations of Work #1&lt;/h4&gt;
-&lt;p&gt;Give each breakout group up to five minutes to present their results, including any discussions.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Workshops: Working Session #2 - Ideate, Group, Classify</title>
-      <link>/workshops/multiplayer/timeline/day-of-workshop/working-session-two/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/workshops/multiplayer/timeline/day-of-workshop/working-session-two/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Using the definition from the previous session, this session focuses on coming up with a sample descriptive &lt;strong&gt;CATALOG OF CONTRIBUTIONS&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Remember the example defined earlier: Community, Value, Outcome.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Suggestions:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;There is no right answer to any questions in this session, or workshop.&lt;/li&gt;
-&lt;li&gt;If your project &lt;strong&gt;already&lt;/strong&gt; has a contribution scheme, try flipping the script:
-&lt;ul&gt;
-&lt;li&gt;Can you identify anyone who works on your project who isn&amp;rsquo;t currently attributed as a contributor?&lt;/li&gt;
-&lt;li&gt;What are less-common tasks that are performed?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;presentations-of-work-2&#34;&gt;Presentations of Work #2&lt;/h4&gt;
-&lt;p&gt;Give each breakout group five minutes to present their results, and ten minutes to discuss with the workshop as a whole.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Workshops: Working Session #3 - Regroup, Define, Revise</title>
-      <link>/workshops/multiplayer/timeline/day-of-workshop/working-session-three/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/workshops/multiplayer/timeline/day-of-workshop/working-session-three/</guid>
-      <description>
-        
-        
-        &lt;p&gt;After completing the previous session, this session allows for refining the sample &lt;strong&gt;CATALOG OF CONTRIBUTIONS&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;This session allows for participants to come back from a break and make any changes, based on their own thoughts, or from other group presentations of Working Session #2&lt;/p&gt;
-&lt;p&gt;This section is optional, depending on the outcomes of Working Session #1 &amp;ldquo;Define&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;Groups may have different &lt;em&gt;definitions&lt;/em&gt; &lt;strong&gt;and&lt;/strong&gt; different &lt;strong&gt;CATALOG OF CONTRIBUTIONS&lt;/strong&gt;. We want to make sure that the work already completed is evolved, and no work rejected.&lt;/p&gt;
-&lt;p&gt;If groups have differing definitions, it may be more useful to keep in separate spaces and have separate tracks of work. If definition is the same, could combine into one group and work together (only if workshop size is small enough)&lt;/p&gt;
-&lt;p&gt;If we worked in isolation and came up with the same answers, that is a data point!&lt;/p&gt;
-&lt;p&gt;Depending on the discussion, create new breakout(s) for 15 minutes.&lt;/p&gt;
-&lt;p&gt;Sample clarifying question:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;ldquo;I see Group A identified Task X. Group B: how does work fit into our model?&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Small groups:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This session can be skipped after confirming no revision required.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;presentations-of-work-3&#34;&gt;Presentations of Work #3&lt;/h4&gt;
-&lt;p&gt;This work will be presented in the next session.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Workshops: Working Session #4 - Apply</title>
-      <link>/workshops/multiplayer/timeline/day-of-workshop/working-session-four/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/workshops/multiplayer/timeline/day-of-workshop/working-session-four/</guid>
-      <description>
-        
-        
-        &lt;p&gt;With the foundation you have created, this session focuses on applying that work.&lt;/p&gt;
-&lt;p&gt;There are many forms that this could take, and your project may already have something like these.&lt;/p&gt;
-&lt;p&gt;We have created a number of example templates for you to use, based on a fictional project.&lt;/p&gt;
-&lt;p&gt;The three templates types are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Call for Participation&lt;/strong&gt;: a defined list of needs at a point in time, for a specific timed event.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Contribution Guide&lt;/strong&gt;: a general purpose how-to guide for new contributors to a project.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Recognition Document&lt;/strong&gt;: a list of previous contributors to a project.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The example templates can be found in the &lt;a href=&#34;/workshops/multiplayer/samples&#34;&gt;Fictional Project Templates&lt;/a&gt; section of this guide.&lt;/p&gt;
-&lt;p&gt;Using one of these as a guide, or working from your existing documentation, apply the work completed in this workshop and build out one of these documents, specifically for your project.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Suggestions&lt;/em&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Re-use the previous working session&amp;rsquo;s results as a starting off point&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;presentations-of-work-4&#34;&gt;Presentations of Work #4&lt;/h2&gt;
-&lt;p&gt;Give each breakout group five minutes to present their results, and ten minutes to discuss with the workshop as a whole.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Workshops: Retrospective</title>
-      <link>/workshops/multiplayer/timeline/day-of-workshop/retrospective/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/workshops/multiplayer/timeline/day-of-workshop/retrospective/</guid>
-      <description>
-        
-        
-        &lt;p&gt;This is a classic &amp;lsquo;short retro&amp;rsquo;, where participants should be non-verbally prompted to provide feedback about what they learnt: what they liked, what could be better, what could be improved.&lt;/p&gt;
-&lt;p&gt;The scope of this could be the workshop itself, the application of the &lt;strong&gt;CATALOG OF CONTRIBUTIONS&lt;/strong&gt;, [PLACEHOLDER] contribution schemes, anything.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Suggestions:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;try not to use this session to ask for commitments from participants to implement anything designed in this workshop, or agree to perform any other work. This workshop has been long, and participants may feel pressure from tiredness or group peer pressure to agree to ongoing commitments.&lt;/li&gt;
-&lt;li&gt;as a facilitator, try not to prompt during this section. Allow participants to offer feedback, but don&amp;rsquo;t guide positive feedback.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;after-the-workshop&#34;&gt;After the workshop&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Send a Thank You email to all active participants
-&lt;ul&gt;
-&lt;li&gt;Suggested Copy: &lt;a href=&#34;/workshop/multiplayer/tempates/#thank-you-email&#34;&gt;Thank you email&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Follow up separately with your leadership regarding implementing any designs, updates, or &lt;strong&gt;CATALOG OF CONTRIBUTIONS&lt;/strong&gt; created.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ACROSS – Workshop Day</title><link>/workshops/multiplayer/timeline/day-of-workshop/</link><description>Recent content in Workshop Day on ACROSS</description><generator>Hugo -- gohugo.io</generator><atom:link href="/workshops/multiplayer/timeline/day-of-workshop/index.xml" rel="self" type="application/rss+xml"/><item><title>Workshops: Introductions and Background</title><link>/workshops/multiplayer/timeline/day-of-workshop/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/workshops/multiplayer/timeline/day-of-workshop/introduction/</guid><description>
+&lt;p>This section is ground rules and scoping. It contains a short set of slides around the scoping of why this identification process is important, and introduces the facilitators to the participants, and participants to each other.&lt;/p>
+&lt;p>&lt;em>Suggestions&lt;/em>:&lt;/p>
+&lt;ul>
+&lt;li>during &amp;ldquo;Participatory Refinement and Questions&amp;rdquo;, ask &amp;ldquo;What questions do you have?&amp;rdquo;, rather than &amp;ldquo;Do you have any questions?&amp;rdquo;.&lt;/li>
+&lt;/ul></description></item><item><title>Workshops: Working Session #1 - Define</title><link>/workshops/multiplayer/timeline/day-of-workshop/working-session-one/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/workshops/multiplayer/timeline/day-of-workshop/working-session-one/</guid><description>
+&lt;!-- Yay, no errors, warnings, or alerts! -->
+&lt;p>This section is literally to define what the scope of this identification workshop is.&lt;/p>
+&lt;p>Yes, that in itself might be vague, but it is intentionally so. Participants may have been invited to discuss a shared project, but identifying the bounds of what is counted as the project is a useful exercise.&lt;/p>
+&lt;p>The outcome of this session may be something in the form: &lt;em>We are [PROJECT], we are here to do [X]&amp;hellip; In order to do [X], we will be defining [Y]&amp;quot;&lt;/em>.&lt;/p>
+&lt;p>When running this workshop virtually, take advantage of your platform&amp;rsquo;s virtual breakout rooms. &lt;strong>Do not observe these breakouts&lt;/strong> (unless asked to do so by attendees), but tell attendees to click any &amp;lsquo;Get Help&amp;rsquo; or &amp;lsquo;Raise Hand&amp;rsquo; button if they need a hand. Set a timer for the session, so that participants know when to return.&lt;/p>
+&lt;p>&lt;em>Suggestions:&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>If you have scoped this workshop for a very specific project, do not skip this section. Make participants create a definition of your project&amp;rsquo;s scope.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>Groups of 2-3 participants:&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>You can still suggest one breakout room so that the group can work unobserved, or if your platform is limited, advise that the facilitator and notetaker will mute/camera off for the duration of breakouts. Try not to make suggestions at participants, but listen out if they have issues.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Note:&lt;/strong> Each session builds on the last, and outcomes from each working session are used in the next. Interpretations in this section follow through the workshop, so ensure consensus before continuing.&lt;/p>
+&lt;h4 id="presentations-of-work-1">Presentations of Work #1&lt;/h4>
+&lt;p>Give each breakout group up to five minutes to present their results, including any discussions.&lt;/p></description></item><item><title>Workshops: Working Session #2 - Ideate, Group, Classify</title><link>/workshops/multiplayer/timeline/day-of-workshop/working-session-two/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/workshops/multiplayer/timeline/day-of-workshop/working-session-two/</guid><description>
+&lt;p>Using the definition from the previous session, this session focuses on coming up with a sample descriptive &lt;strong>CATALOG OF CONTRIBUTIONS&lt;/strong>.&lt;/p>
+&lt;p>Remember the example defined earlier: Community, Value, Outcome.&lt;/p>
+&lt;p>&lt;em>Suggestions:&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>There is no right answer to any questions in this session, or workshop.&lt;/li>
+&lt;li>If your project &lt;strong>already&lt;/strong> has a contribution scheme, try flipping the script:
+&lt;ul>
+&lt;li>Can you identify anyone who works on your project who isn&amp;rsquo;t currently attributed as a contributor?&lt;/li>
+&lt;li>What are less-common tasks that are performed?&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="presentations-of-work-2">Presentations of Work #2&lt;/h4>
+&lt;p>Give each breakout group five minutes to present their results, and ten minutes to discuss with the workshop as a whole.&lt;/p></description></item><item><title>Workshops: Working Session #3 - Regroup, Define, Revise</title><link>/workshops/multiplayer/timeline/day-of-workshop/working-session-three/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/workshops/multiplayer/timeline/day-of-workshop/working-session-three/</guid><description>
+&lt;p>After completing the previous session, this session allows for refining the sample &lt;strong>CATALOG OF CONTRIBUTIONS&lt;/strong>.&lt;/p>
+&lt;p>This session allows for participants to come back from a break and make any changes, based on their own thoughts, or from other group presentations of Working Session #2&lt;/p>
+&lt;p>This section is optional, depending on the outcomes of Working Session #1 &amp;ldquo;Define&amp;rdquo;.&lt;/p>
+&lt;p>Groups may have different &lt;em>definitions&lt;/em> &lt;strong>and&lt;/strong> different &lt;strong>CATALOG OF CONTRIBUTIONS&lt;/strong>. We want to make sure that the work already completed is evolved, and no work rejected.&lt;/p>
+&lt;p>If groups have differing definitions, it may be more useful to keep in separate spaces and have separate tracks of work. If definition is the same, could combine into one group and work together (only if workshop size is small enough)&lt;/p>
+&lt;p>If we worked in isolation and came up with the same answers, that is a data point!&lt;/p>
+&lt;p>Depending on the discussion, create new breakout(s) for 15 minutes.&lt;/p>
+&lt;p>Sample clarifying question:&lt;/p>
+&lt;ul>
+&lt;li>&amp;ldquo;I see Group A identified Task X. Group B: how does work fit into our model?&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>Small groups:&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>This session can be skipped after confirming no revision required.&lt;/li>
+&lt;/ul>
+&lt;h4 id="presentations-of-work-3">Presentations of Work #3&lt;/h4>
+&lt;p>This work will be presented in the next session.&lt;/p></description></item><item><title>Workshops: Working Session #4 - Apply</title><link>/workshops/multiplayer/timeline/day-of-workshop/working-session-four/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/workshops/multiplayer/timeline/day-of-workshop/working-session-four/</guid><description>
+&lt;p>With the foundation you have created, this session focuses on applying that work.&lt;/p>
+&lt;p>There are many forms that this could take, and your project may already have something like these.&lt;/p>
+&lt;p>We have created a number of example templates for you to use, based on a fictional project.&lt;/p>
+&lt;p>The three templates types are:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Call for Participation&lt;/strong>: a defined list of needs at a point in time, for a specific timed event.&lt;/li>
+&lt;li>&lt;strong>Contribution Guide&lt;/strong>: a general purpose how-to guide for new contributors to a project.&lt;/li>
+&lt;li>&lt;strong>Recognition Document&lt;/strong>: a list of previous contributors to a project.&lt;/li>
+&lt;/ul>
+&lt;p>The example templates can be found in the &lt;a href="/workshops/multiplayer/samples">Fictional Project Templates&lt;/a> section of this guide.&lt;/p>
+&lt;p>Using one of these as a guide, or working from your existing documentation, apply the work completed in this workshop and build out one of these documents, specifically for your project.&lt;/p>
+&lt;p>&lt;em>Suggestions&lt;/em>:&lt;/p>
+&lt;ul>
+&lt;li>Re-use the previous working session&amp;rsquo;s results as a starting off point&lt;/li>
+&lt;/ul>
+&lt;h2 id="presentations-of-work-4">Presentations of Work #4&lt;/h2>
+&lt;p>Give each breakout group five minutes to present their results, and ten minutes to discuss with the workshop as a whole.&lt;/p></description></item><item><title>Workshops: Retrospective</title><link>/workshops/multiplayer/timeline/day-of-workshop/retrospective/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/workshops/multiplayer/timeline/day-of-workshop/retrospective/</guid><description>
+&lt;p>This is a classic &amp;lsquo;short retro&amp;rsquo;, where participants should be non-verbally prompted to provide feedback about what they learnt: what they liked, what could be better, what could be improved.&lt;/p>
+&lt;p>The scope of this could be the workshop itself, the application of the &lt;strong>CATALOG OF CONTRIBUTIONS&lt;/strong>, [PLACEHOLDER] contribution schemes, anything.&lt;/p>
+&lt;p>&lt;em>Suggestions:&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>try not to use this session to ask for commitments from participants to implement anything designed in this workshop, or agree to perform any other work. This workshop has been long, and participants may feel pressure from tiredness or group peer pressure to agree to ongoing commitments.&lt;/li>
+&lt;li>as a facilitator, try not to prompt during this section. Allow participants to offer feedback, but don&amp;rsquo;t guide positive feedback.&lt;/li>
+&lt;/ul>
+&lt;h3 id="after-the-workshop">After the workshop&lt;/h3>
+&lt;ul>
+&lt;li>Send a Thank You email to all active participants
+&lt;ul>
+&lt;li>Suggested Copy: &lt;a href="/workshop/multiplayer/tempates/#thank-you-email">Thank you email&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Follow up separately with your leadership regarding implementing any designs, updates, or &lt;strong>CATALOG OF CONTRIBUTIONS&lt;/strong> created.&lt;/li>
+&lt;/ul></description></item></channel></rss>

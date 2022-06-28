@@ -1,81 +1,39 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ACROSS – Best Practices</title>
-    <link>/workshops/multiplayer/resources/best-practices/</link>
-    <description>Recent content in Best Practices on ACROSS</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	  <atom:link href="/workshops/multiplayer/resources/best-practices/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title>Workshops: Inclusive Facilitation Resources</title>
-      <link>/workshops/multiplayer/resources/best-practices/facilitator/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/workshops/multiplayer/resources/best-practices/facilitator/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Ensure your attendees review the &lt;a href=&#34;../participant&#34;&gt;participant&lt;/a&gt; version of this guide.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Share the agenda, resources, and all other workshop materials ahead of time.&lt;/strong&gt; This sets the stage for everyone to have access to the same information, and process it when they need to.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Start every working session with introductions that include names and pronouns.&lt;/strong&gt; Start with one person and have them introduce themselves. This additionally tells the group how their name is pronounced. Have them choose the next person to start forming working relationships in the group.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Agree on a schedule that allows each participant to be fully present.&lt;/strong&gt; This workshop can be stretched over multiple days or completed in a single, longer session. Choose the format that maximizes participant&amp;rsquo;s availability, energy, and collective ability to work with other people.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Set ground rules on collaboration features.&lt;/strong&gt; Explicitly establish in the beginning of each working session how the group wants to use chat channels, breakout rooms, and when is the best time to ask questions of a speaker.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Do you want to use the &amp;ldquo;raise hand&amp;rdquo; feature in your meeting platform as a queue, or does that make other people feel interrupted?&lt;/li&gt;
-&lt;li&gt;What multi-sensory and platform features will facilitators use to signal to a speaker that their allotted time is complete?&lt;/li&gt;
-&lt;li&gt;What multi-sensory cues can the participants use for turn taking?&lt;/li&gt;
-&lt;li&gt;Does everyone understand how to mute their mic when they are not speaking?&lt;/li&gt;
-&lt;li&gt;Where and how should people respond to questions?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Remember your background and allow others their privacy.&lt;/strong&gt; Virtual backgrounds can be distracting or bandwidth intensive. It&amp;rsquo;s not okay to comment on someone&amp;rsquo;s appearance or that of their environment and is counter to the goals of this workshop.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Plan for call-in participants for remote workshops.&lt;/strong&gt; Sharing documents, meeting notes, and any slides used ahead of time allow people to participate fully when a secure internet connection is not reliably available.&lt;/p&gt;
-&lt;p&gt;If anyone&amp;rsquo;s bandwidth is impacted by video conferencing, consider having everyone turn off their camera with only the speaker keeping their camera on.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Choose single platforms that enable the most accessible communication with your participants.&lt;/strong&gt; Let your participants know ahead of time the technology you plan on using for the virtual meeting, chat, and document sharing. Ask for feedback on availability of accessibility features.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Create space for those participants who have shared less or been quiet by saving time to ask for additional input&lt;/strong&gt;. Don&amp;rsquo;t put people on the spot by calling on them directly, unless the group has agreed to this ahead of time as a norm. Keep a shared document with a &amp;ldquo;questions and comments&amp;rdquo; section for those who process information by writing.&lt;/p&gt;
-&lt;p&gt;Further Reading:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.google/outreach-initiatives/diversity/accessible-video-meetings/&#34;&gt;https://blog.google/outreach-initiatives/diversity/accessible-video-meetings/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.blog.google/outreach-initiatives/diversity/how-foster-inclusion-while-working-home/&#34;&gt;https://www.blog.google/outreach-initiatives/diversity/how-foster-inclusion-while-working-home/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Workshops: Best Practices for Participating in Inclusive Workshops</title>
-      <link>/workshops/multiplayer/resources/best-practices/participant/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/workshops/multiplayer/resources/best-practices/participant/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Your facilitator will be &lt;a href=&#34;../facilitator/&#34;&gt;following a number of best practices&lt;/a&gt;. These notes are based on your involvement in the workshop.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Review the agenda, resources, and all other workshop materials ahead of time.&lt;/strong&gt; This sets the stage for everyone to have access to the same information, and process it when they need to.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Every working session will be started with introductions that include names and pronouns.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ground rules on collaboration features.&lt;/strong&gt; It will be established in the beginning of each working session how the group wants to use chat channels, breakout rooms, and when is the best time to ask questions of a speaker. For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Do you want to use the &amp;ldquo;raise hand&amp;rdquo; feature in your meeting platform as a queue, or does that make other people feel interrupted?&lt;/li&gt;
-&lt;li&gt;What multi-sensory and platform features will facilitators use to signal to a speaker that their allotted time is complete?&lt;/li&gt;
-&lt;li&gt;What multi-sensory cues can the participants use for turn taking?&lt;/li&gt;
-&lt;li&gt;Does everyone understand how to mute their mic when they are not speaking?&lt;/li&gt;
-&lt;li&gt;Where and how should people respond to questions?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Remember your background and allow others their privacy.&lt;/strong&gt; Virtual backgrounds can be distracting or bandwidth intensive. It&amp;rsquo;s not okay to comment on someone&amp;rsquo;s appearance or that of their environment and is counter to the goals of this workshop.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Plan for call-in participants for remote workshops.&lt;/strong&gt; Sharing documents, meeting notes, and any slides used ahead of time allow people to participate fully when a secure internet connection is not reliably available.&lt;/p&gt;
-&lt;p&gt;If anyone&amp;rsquo;s bandwidth is impacted by video conferencing, consider having everyone turn off their camera with only the speaker keeping their camera on.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The platform chosen will be one that enables the most accessible communication with your team.&lt;/strong&gt; If known ahead of time the technology that is planned on being used for the virtual meeting, chat, and document sharing, feedback on availability of accessibility features will be provided.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Create space for those participants who have shared less or been quiet by saving time to ask for additional input&lt;/strong&gt;. You won&amp;rsquo;t be put on the spot by being called on directly, unless the group has agreed to this ahead of time as a norm. Help keep a shared document with a &amp;ldquo;questions and comments&amp;rdquo; section for those who process information by writing.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ACROSS – Best Practices</title><link>/workshops/multiplayer/resources/best-practices/</link><description>Recent content in Best Practices on ACROSS</description><generator>Hugo -- gohugo.io</generator><atom:link href="/workshops/multiplayer/resources/best-practices/index.xml" rel="self" type="application/rss+xml"/><item><title>Workshops: Inclusive Facilitation Resources</title><link>/workshops/multiplayer/resources/best-practices/facilitator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/workshops/multiplayer/resources/best-practices/facilitator/</guid><description>
+&lt;p>Ensure your attendees review the &lt;a href="../participant">participant&lt;/a> version of this guide.&lt;/p>
+&lt;p>&lt;strong>Share the agenda, resources, and all other workshop materials ahead of time.&lt;/strong> This sets the stage for everyone to have access to the same information, and process it when they need to.&lt;/p>
+&lt;p>&lt;strong>Start every working session with introductions that include names and pronouns.&lt;/strong> Start with one person and have them introduce themselves. This additionally tells the group how their name is pronounced. Have them choose the next person to start forming working relationships in the group.&lt;/p>
+&lt;p>&lt;strong>Agree on a schedule that allows each participant to be fully present.&lt;/strong> This workshop can be stretched over multiple days or completed in a single, longer session. Choose the format that maximizes participant&amp;rsquo;s availability, energy, and collective ability to work with other people.&lt;/p>
+&lt;p>&lt;strong>Set ground rules on collaboration features.&lt;/strong> Explicitly establish in the beginning of each working session how the group wants to use chat channels, breakout rooms, and when is the best time to ask questions of a speaker.&lt;/p>
+&lt;ul>
+&lt;li>Do you want to use the &amp;ldquo;raise hand&amp;rdquo; feature in your meeting platform as a queue, or does that make other people feel interrupted?&lt;/li>
+&lt;li>What multi-sensory and platform features will facilitators use to signal to a speaker that their allotted time is complete?&lt;/li>
+&lt;li>What multi-sensory cues can the participants use for turn taking?&lt;/li>
+&lt;li>Does everyone understand how to mute their mic when they are not speaking?&lt;/li>
+&lt;li>Where and how should people respond to questions?&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Remember your background and allow others their privacy.&lt;/strong> Virtual backgrounds can be distracting or bandwidth intensive. It&amp;rsquo;s not okay to comment on someone&amp;rsquo;s appearance or that of their environment and is counter to the goals of this workshop.&lt;/p>
+&lt;p>&lt;strong>Plan for call-in participants for remote workshops.&lt;/strong> Sharing documents, meeting notes, and any slides used ahead of time allow people to participate fully when a secure internet connection is not reliably available.&lt;/p>
+&lt;p>If anyone&amp;rsquo;s bandwidth is impacted by video conferencing, consider having everyone turn off their camera with only the speaker keeping their camera on.&lt;/p>
+&lt;p>&lt;strong>Choose single platforms that enable the most accessible communication with your participants.&lt;/strong> Let your participants know ahead of time the technology you plan on using for the virtual meeting, chat, and document sharing. Ask for feedback on availability of accessibility features.&lt;/p>
+&lt;p>&lt;strong>Create space for those participants who have shared less or been quiet by saving time to ask for additional input&lt;/strong>. Don&amp;rsquo;t put people on the spot by calling on them directly, unless the group has agreed to this ahead of time as a norm. Keep a shared document with a &amp;ldquo;questions and comments&amp;rdquo; section for those who process information by writing.&lt;/p>
+&lt;p>Further Reading:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://blog.google/outreach-initiatives/diversity/accessible-video-meetings/">https://blog.google/outreach-initiatives/diversity/accessible-video-meetings/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.blog.google/outreach-initiatives/diversity/how-foster-inclusion-while-working-home/">https://www.blog.google/outreach-initiatives/diversity/how-foster-inclusion-while-working-home/&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Workshops: Best Practices for Participating in Inclusive Workshops</title><link>/workshops/multiplayer/resources/best-practices/participant/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/workshops/multiplayer/resources/best-practices/participant/</guid><description>
+&lt;p>Your facilitator will be &lt;a href="../facilitator/">following a number of best practices&lt;/a>. These notes are based on your involvement in the workshop.&lt;/p>
+&lt;p>&lt;strong>Review the agenda, resources, and all other workshop materials ahead of time.&lt;/strong> This sets the stage for everyone to have access to the same information, and process it when they need to.&lt;/p>
+&lt;p>&lt;strong>Every working session will be started with introductions that include names and pronouns.&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Ground rules on collaboration features.&lt;/strong> It will be established in the beginning of each working session how the group wants to use chat channels, breakout rooms, and when is the best time to ask questions of a speaker. For example:&lt;/p>
+&lt;ul>
+&lt;li>Do you want to use the &amp;ldquo;raise hand&amp;rdquo; feature in your meeting platform as a queue, or does that make other people feel interrupted?&lt;/li>
+&lt;li>What multi-sensory and platform features will facilitators use to signal to a speaker that their allotted time is complete?&lt;/li>
+&lt;li>What multi-sensory cues can the participants use for turn taking?&lt;/li>
+&lt;li>Does everyone understand how to mute their mic when they are not speaking?&lt;/li>
+&lt;li>Where and how should people respond to questions?&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Remember your background and allow others their privacy.&lt;/strong> Virtual backgrounds can be distracting or bandwidth intensive. It&amp;rsquo;s not okay to comment on someone&amp;rsquo;s appearance or that of their environment and is counter to the goals of this workshop.&lt;/p>
+&lt;p>&lt;strong>Plan for call-in participants for remote workshops.&lt;/strong> Sharing documents, meeting notes, and any slides used ahead of time allow people to participate fully when a secure internet connection is not reliably available.&lt;/p>
+&lt;p>If anyone&amp;rsquo;s bandwidth is impacted by video conferencing, consider having everyone turn off their camera with only the speaker keeping their camera on.&lt;/p>
+&lt;p>&lt;strong>The platform chosen will be one that enables the most accessible communication with your team.&lt;/strong> If known ahead of time the technology that is planned on being used for the virtual meeting, chat, and document sharing, feedback on availability of accessibility features will be provided.&lt;/p>
+&lt;p>&lt;strong>Create space for those participants who have shared less or been quiet by saving time to ask for additional input&lt;/strong>. You won&amp;rsquo;t be put on the spot by being called on directly, unless the group has agreed to this ahead of time as a norm. Help keep a shared document with a &amp;ldquo;questions and comments&amp;rdquo; section for those who process information by writing.&lt;/p></description></item></channel></rss>

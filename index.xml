@@ -1,36 +1,8 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ACROSS – ACROSS</title>
-    <link>/</link>
-    <description>Recent content on ACROSS</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	  <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-      
-    
-    
-    <item>
-      <title>Blog: G&#39;day, y&#39;all!</title>
-      <link>/blog/2022/06/01/gday-yall/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2022/06/01/gday-yall/</guid>
-      <description>
-        
-        
-        &lt;p&gt;We&amp;rsquo;re happy to announce the first public release of the ACROSS Workshop, hosted right here on whodoesthe.dev&lt;/p&gt;
-&lt;h2 id=&#34;whats-up-with-the-name&#34;&gt;What&amp;rsquo;s up with the name?&lt;/h2&gt;
-&lt;p&gt;The ACROSS Workshops are focused on identifying who does the work, hence the URL.&lt;/p&gt;
-&lt;h2 id=&#34;how-can-i-get-started&#34;&gt;How can I get started?&lt;/h2&gt;
-&lt;p&gt;Head on over to our &lt;a href=&#34;/workshops/multiplayer/&#34;&gt;first workshop&lt;/a&gt;!&lt;/p&gt;
-&lt;h2 id=&#34;i-have-a-commentbugissue&#34;&gt;I have a comment/bug/issue&lt;/h2&gt;
-&lt;p&gt;Please let us know! Use the &lt;strong&gt;Edit this page&lt;/strong&gt; button on any page to suggest a fix on GitHub, or &lt;a href=&#34;https://github.com/google/across/issues&#34;&gt;log an issue&lt;/a&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ACROSS – ACROSS</title><link>/</link><description>Recent content on ACROSS</description><generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: G'day, y'all!</title><link>/blog/2022/06/01/gday-yall/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>/blog/2022/06/01/gday-yall/</guid><description>
+&lt;p>We&amp;rsquo;re happy to announce the first public release of the ACROSS Workshop, hosted right here on whodoesthe.dev&lt;/p>
+&lt;h2 id="whats-up-with-the-name">What&amp;rsquo;s up with the name?&lt;/h2>
+&lt;p>The ACROSS Workshops are focused on identifying who does the work, hence the URL.&lt;/p>
+&lt;h2 id="how-can-i-get-started">How can I get started?&lt;/h2>
+&lt;p>Head on over to our &lt;a href="/workshops/multiplayer/">first workshop&lt;/a>!&lt;/p>
+&lt;h2 id="i-have-a-commentbugissue">I have a comment/bug/issue&lt;/h2>
+&lt;p>Please let us know! Use the &lt;strong>Edit this page&lt;/strong> button on any page to suggest a fix on GitHub, or &lt;a href="https://github.com/google/across/issues">log an issue&lt;/a>&lt;/p></description></item></channel></rss>
