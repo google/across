@@ -18,7 +18,7 @@
   "homepage": "https://github.com/google/across#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.2",
-    "postcss": "^8.3.7",
+    "postcss": "^8.4.16",
     "postcss-cli": "^9.1.0"
   }
 }
