@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    {% include head.html %}
+    <link href="{{ site.baseurl }}/public/css/workshop.css" rel="stylesheet">
+</head>
+
+<body>
+    <header class="topnavbar fixed-top p-3 mb-3 text-bg-dark">
+        <div class="d-flex flex-wrap">
+            <div class="logo">
+                <a href="{{site.baseurl}}/">
+                    <img class="logomark" src="{{ site.baseurl }}/public/img/logomark.svg"></a>
+                </a>
+            </div>
+
+            <ul class="nav ms-auto workshop-navbar">
+                {% for item in site.navbar %}
+                {% assign link = item.url %}
+                <li class="nav-item"><a class="nav-link {% if page.url == link %} active {% endif %}" {% if link contains "https" %} href="{{item.url}}">{% else %}
+                        href="{{ site.baseurl }}{{item.url}}">{% endif %}{{item.title}}</a>
+                </li>
+                {% endfor %}
+
+            </ul>
+
+        </div>
+    </header>
+
+    <div class="container-fluid">
+        <div class="row">
+            <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
+                <div class="position-sticky pt-3 sidebar-sticky">
+                    <ul class="nav flex-column p-4 nav-dot">
+                        {% include workshop-nav.html %}
+                    </ul>
+                </div>
+            </nav>
+            <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4 p-4">
+                <div
+                    class="justify-content-between flex-wrap flex-md-nowrap align-items-center pt-4 pb-2 mb-3  mt-4 border-bottom">
+                    <p class="pt-2">{% include breadcrumb.html %}</p>
+                    <h1 class="h2">{{page.title}}</h1>
+                    <p>{{page.description}}</p>
+                </div>
+                {{content}}
+            </main>
+        </div>
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

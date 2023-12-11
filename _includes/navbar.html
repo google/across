@@ -1,0 +1,25 @@
+<nav class="navbar navbar-expand-xl navbar-dark">
+    <a class="navbar-brand" href="{{ site.baseurl }}"><img class="logomark"
+            src="{{ site.baseurl }}/public/img/logomark.svg"></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#acrossNavbar"
+        aria-controls="acrossNavbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="acrossNavbar">
+        <ul class="navbar-nav mr-auto">
+            {% for item in site.navbar %}
+            {% assign link = item.url %}
+            <li class="nav-item">
+                <a class="nav-link {% if page.url == link %} active {% endif %}" aria-current="page"
+                    {% if link contains "https" %}
+                        href="{{item.url}}">
+                    {% else %}
+                        href="{{ site.baseurl }}{{item.url}}">
+                    {% endif %}
+                    {{item.title}}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</nav>

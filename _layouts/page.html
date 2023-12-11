@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  {% include head.html %}
+  <link href="{{ site.baseurl }}/public/css/style.css" rel="stylesheet">
+</head>
+
+<body>
+  <div class="col-lg-10 mx-auto p-4 py-md-5">
+    {% include navbar.html %}
+    {% include darkmode.html %}
+    <main class="text-bg-light px-4 py-4 my-4">
+
+      <h1>{{ page.title }}</h1>
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </div>
+
+</body>
+
+</html>

@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    {% include head.html %}
+
+    <link href="{{ site.baseurl }}/public/css/style.css" rel="stylesheet">
+</head>
+
+<body class="body-image">
+    <div class="col-lg-10 mx-auto p-4 py-md-5">
+
+        {% include navbar.html %}
+
+        <main>
+
+            <div class="container px-4 py-5" class="header">
+                <div id="complex-header" class="row-cols-1">
+                    <h1>Attributing<br>
+                        <span class="contrib">
+                            <span class="contrib-oval">Contributor Roles</span>
+                            <span class="contrib-trail">
+                                {% for i in (1..5) %}
+                                <img class="contrib{{i}}" src="{{ site.baseurl }}/public/img/design/oval_{{i}}.png">
+                                {% endfor %}
+                            </span>
+                        </span>
+                        <br>in Open Source Software
+
+                    </h1>
+                </div>
+
+                <hr class="col-8 col-md-2 mt-5 mb-5">
+
+                <div id="description" class="row row-cols-1 row-cols-lg-2 mt-4">
+                    <div class="col-lg-7">
+                        <p>
+                            Project OCEAN is an open science collaboration focused on understanding the open source
+                            ecosystems creating datasets that enable research and forming a clear understanding of the
+                            state of open source communities.
+                            <br><br>
+                            <b>OCEAN's goal is to understand the health of the open source communities.</b>
+                        </p>
+                    </div>
+                    {% comment %}
+                    <div class="col-lg-7 d-none d-lg-inline">
+                        <img class="img-fluid" src="{{ site.baseurl }}/public/img/design/Code_Patterns.png" />
+                    </div>
+                    {% endcomment %}
+                </div>
+
+                <hr class="col-8 col-md-2 mb-5 mt-5">
+
+                <div id="engagement" class="container">
+                    <div class="row gap-3">
+                        <div class="feature col">
+                            <div
+                                class="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3 pt-3">
+                                <img src="{{ site.baseurl }}/public/img/icon/info.svg">
+                            </div>
+                            <h3 class="fs-4">About ACROSS</h3>
+                            <p>Learn about the <a href="{{ site.baseurl }}//about">Attributing Contributor Roles in Open
+                                    Source
+                                    Software</a> (ACROSS) project.</b></p>
+
+                        </div>
+                        <div class="feature col">
+                            <div
+                                class="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3 pt-3">
+                                <img src="{{ site.baseurl }}/public/img/icon/water.svg">
+                            </div>
+                            <h3 class="fs-4">About OCEAN</h3>
+                            <p>Learn more about the <a href="https://vermontcomplexsystems.org/partner/OCEAN/">Open
+                                    Source Complex Ecosystems and Networks</a> (OCEAN) project.
+                            </p>
+
+                        </div>
+                        <div class="feature col">
+                            <div
+                                class="feature-icon d-inline-flex align-items-center justify-content-center fs-2 mb-3 pt-3">
+                                <img src="{{ site.baseurl }}/public/img/icon/diversity.svg">
+                            </div>
+                            <h3 class="fs-4">Workshops</h3>
+                            <p>Use our <a href="{{ site.baseurl }}/workshops/group">Workshop materials</a> to identify your
+                                own
+                                contributors!</p>
+
+                        </div>
+                    </div>
+                </div>
+
+        </main>
+    </div>
+
+
+
+    {% include footer.html %}
+
+</body>
+
+</html>

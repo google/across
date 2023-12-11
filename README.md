@@ -1,5 +1,7 @@
 # ACROSS
 
+# ACROSS
+
 This is not an officially supported Google product
 
 This repository contains code and related content for the ACROSS Taxonomy Project, including Workshops and Research, as part of Project OCEAN. 
@@ -34,3 +36,18 @@ Apache header:
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+## Local development
+
+This site uses [Jekyll](https://jekyllrb.com/), a Ruby-based static site generator. 
+
+Deployment previews are automated with [netlify](https://www.netlify.com/) (see comments automatically added to new PRs).
+
+It uses GitHub Actions `.github/publish.yaml` to generate static content that is served by the Settings > Pages setting. 
+
+For location development, with a [Ruby installation](https://www.ruby-lang.org/en/documentation/installation/) and [bundler](https://bundler.io/guides/getting_started.html): 
+
+```
+bundle install
+bundle exec jekyll serve -lo
+```
