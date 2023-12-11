@@ -1,0 +1,37 @@
+<div class="workshop-nav">
+{% if page.workshop_type == "group" %}
+<h3>Group Workshop</h3>
+<li>Timeline</li>
+<ul>
+    <li><a href="{{site.baseurl}}/workshops/group/timeline/before-workshop">Before Workshop</a></li>
+    <li><a href="{{site.baseurl}}/workshops/group/timeline/day-of-workshop">Workshop Day</a></li>
+    <ul>
+        <li><a href="{{site.baseurl}}/workshops/group/timeline/day-of-workshop/introduction">Introduction</a></li>
+        <li><a href="{{site.baseurl}}/workshops/group/timeline/day-of-workshop/working-session-one">Working Session #1</a></li>
+        <li><a href="{{site.baseurl}}/workshops/group/timeline/day-of-workshop/working-session-two">Working Session #2</a></li>
+        <li><a href="{{site.baseurl}}/workshops/group/timeline/day-of-workshop/working-session-three">Working Session #3</a></li>
+        <li><a href="{{site.baseurl}}/workshops/group/timeline/day-of-workshop/working-session-four">Working Session #4</a></li>
+        <li><a href="{{site.baseurl}}/workshops/group/timeline/day-of-workshop/retrospective">Retrospective</a></li>
+    </ul>
+    <li><a href="{{site.baseurl}}/workshops/group/timeline/after-workshop">After Workshop</a></li>
+</ul>
+<li>Resources</li>
+<ul>
+    <li>Best Practices</li>
+    <ul>
+        <li><a href="{{site.baseurl}}/workshops/group/resources/best-practices/facilitator">Facilitator</a></li>
+        <li><a href="{{site.baseurl}}/workshops/group/resources/best-practices/participant">Participant</a></li>
+    </ul>
+    <li><a href="{{site.baseurl}}/workshops/group/resources/samples">Samples</a></li>
+    <li><a href="{{site.baseurl}}/workshops/group/resources/slides">Slides</a></li>
+    <li><a href="{{site.baseurl}}/workshops/group/resources/templates">Templates</a></li>
+</ul>
+<li>
+<li><a href="{{site.baseurl}}/workshops/group/faq">FAQs</a></li>
+</li>
+{% else if workshop_type="solo" %}
+
+<h3>Solo Workshop</h3>
+<li>Coming soon</li>
+{% endif %}
+</div>
