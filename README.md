@@ -41,6 +41,8 @@ Apache header:
 
 This site uses [Jekyll](https://jekyllrb.com/), a Ruby-based static site generator. 
 
+Deployment previews are automated with [netlify](https://www.netlify.com/) (see comments automatically added to new PRs).
+
 It uses GitHub Actions `.github/publish.yaml` to generate static content that is served by the Settings > Pages setting. 
 
 For location development, with a [Ruby installation](https://www.ruby-lang.org/en/documentation/installation/) and [bundler](https://bundler.io/guides/getting_started.html): 
