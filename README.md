@@ -1,7 +1,5 @@
 # ACROSS
 
-# ACROSS
-
 This is not an officially supported Google product
 
 This repository contains code and related content for the ACROSS Taxonomy Project, including Workshops and Research, as part of Project OCEAN. 
