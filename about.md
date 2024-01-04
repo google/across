@@ -18,8 +18,8 @@ In these workshops we will walk you through a process to identify the work that 
 
 ## Research
 
- * Casari, A., McLaughlin, K., Trujillo, M.Z. et al. “Open source ecosystems need equitable credit across contributions” Nat Comput Sci 1, 2 (2021). [https://doi.org/10.1038/s43588-020-00011-w](https://doi.org/10.1038/s43588-020-00011-w)
+ * Casari, Amanda, Katie McLaughlin, Milo Z. Trujillo, Jean-Gabriel Young, James P. Bagrow, and Laurent Hébert-Dufresne. "Open source ecosystems need equitable credit across contributions" Nat Comput Sci 1, 2 (2021). [https://doi.org/10.1038/s43588-020-00011-w](https://doi.org/10.1038/s43588-020-00011-w)
 
- * Young, J.-G., Casari, A., McLaughlin, K., Trujillo, M. Z., Hébert-Dufresne, L., and Bagrow, J. P., “Which contributions count? Analysis of attribution in open source”, Mining Software Repositories Conference (2021) [https://doi.org/10.48550/arXiv.2103.11007](https://doi.org/10.48550/arXiv.2103.11007)
+ * Young, Jean-Gabriel, Amanda Casari, Katie McLaughlin, Milo Z. Trujillo, Laurent Hebert-Dufresne, and James P. Bagrow. "Which contributions count? Analysis of attribution in open source", Mining Software Repositories Conference (2021) [https://doi.org/10.48550/arXiv.2103.11007](https://doi.org/10.48550/arXiv.2103.11007)
 
 See more research from [Google Open Source](https://opensource.google/documentation/publications/overview)
