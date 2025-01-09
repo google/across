@@ -18,8 +18,11 @@ In these workshops we will walk you through a process to identify the work that 
 
 ## Research
 
- * Casari, Amanda, Katie McLaughlin, Milo Z. Trujillo, Jean-Gabriel Young, James P. Bagrow, and Laurent Hébert-Dufresne. "Open source ecosystems need equitable credit across contributions" Nat Comput Sci 1, 2 (2021). [https://doi.org/10.1038/s43588-020-00011-w](https://doi.org/10.1038/s43588-020-00011-w)
+ * Amanda Casari, Katie McLaughlin, Milo Z. Trujillo, Jean-Gabriel Young, James P. Bagrow, and Laurent Hébert-Dufresne. "Open source ecosystems need equitable credit across contributions" Nat Comput Sci 1, 2 (2021). [https://doi.org/10.1038/s43588-020-00011-w](https://doi.org/10.1038/s43588-020-00011-w)
 
- * Young, Jean-Gabriel, Amanda Casari, Katie McLaughlin, Milo Z. Trujillo, Laurent Hebert-Dufresne, and James P. Bagrow. "Which contributions count? Analysis of attribution in open source", Mining Software Repositories Conference (2021) [https://doi.org/10.48550/arXiv.2103.11007](https://doi.org/10.48550/arXiv.2103.11007)
+ * Jean-Gabriel Young, Amanda Casari, Katie McLaughlin, Milo Z. Trujillo, Laurent Hebert-Dufresne, and James P. Bagrow. "Which contributions count? Analysis of attribution in open source", Mining Software Repositories Conference (2021) [https://doi.org/10.1109/MSR52588.2021.00036](https://doi.org/10.48550/arXiv.2103.11007)
+
+ * John Meluso, Amanda Casari, Katie McLaughlin, Milo Z. Trujillo. "Invisible Labor in Open Source Software Ecosystems", pre-print (2024) [https://doi.org/10.48550/arXiv.2401.06889](https://doi.org/10.48550/arXiv.2401.06889)
+
 
 See more research from [Google Open Source](https://opensource.google/documentation/publications/overview)
