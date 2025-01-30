@@ -26,3 +26,8 @@ In these workshops we will walk you through a process to identify the work that 
 
 
 See more research from [Google Open Source](https://opensource.google/documentation/publications/overview)
+
+## Presentations
+
+ * [Upstream 2022](https://upstream.live/speaker-2022/amanda-casari): "Better contributor documentation ACROSS open source", Amanda Casari ([Slides](https://bit.ly/across-slides-upstream2022), [Transcript](https://bit.ly/across-transcript-upstream2022))
+ * [CHAOSSCon 2025](https://chaoss.community/chaosscon-2025-eu/): "Who does the dev?", Katie McLaughlin ([Slides](https://bit.ly/across-slides-chaossconeu2025))
