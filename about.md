@@ -22,7 +22,7 @@ In these workshops we will walk you through a process to identify the work that 
 
  * Jean-Gabriel Young, Amanda Casari, Katie McLaughlin, Milo Z. Trujillo, Laurent Hebert-Dufresne, and James P. Bagrow. "Which contributions count? Analysis of attribution in open source", Mining Software Repositories Conference (2021) [https://doi.org/10.1109/MSR52588.2021.00036](https://doi.org/10.48550/arXiv.2103.11007)
 
- * John Meluso, Amanda Casari, Katie McLaughlin, Milo Z. Trujillo. "Invisible Labor in Open Source Software Ecosystems", pre-print (2024) [https://doi.org/10.48550/arXiv.2401.06889](https://doi.org/10.48550/arXiv.2401.06889)
+ * John Meluso, Amanda Casari, Katie McLaughlin, Milo Z. Trujillo. "Invisible Labor in Open Source Software Ecosystems", (2025) <https://dl.acm.org/doi/10.1145/3757417>
 
 
 See more research from [Google Open Source](https://opensource.google/documentation/publications/overview)
