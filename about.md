@@ -31,3 +31,4 @@ See more research from [Google Open Source](https://opensource.google/documentat
 
  * [Upstream 2022](https://upstream.live/speaker-2022/amanda-casari): "Better contributor documentation ACROSS open source", Amanda Casari ([Slides](https://bit.ly/across-slides-upstream2022), [Transcript](https://bit.ly/across-transcript-upstream2022))
  * [CHAOSSCon 2025](https://chaoss.community/chaosscon-2025-eu/): "Who does the dev?", Katie McLaughlin ([Slides](https://bit.ly/across-slides-chaossconeu2025))
+ * [Kiwi PyCon 2025](https://kiwipycon.nz/): "Invisible Labor in Open Source Software Ecosystems" Poster, Katie McLaughlin ([Poster](/public/assets/invisible-labor-poster.pdf))
